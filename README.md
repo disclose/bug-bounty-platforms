@@ -24,6 +24,7 @@ A ongoing community-powered collection of all known bug bounty platforms, vulner
 |Findbug|findbug.io|Kosovo|https://twitter.com/Findbugks|Y|Private|Y|NIL|
 |Hackenproof|hackenproof.com|Ukraine|https://twitter.com/hacken_io|Y|Both|Y|https://hackenproof.com/leaderboard|
 |HackerOne|hackerone.com|USA|https://twitter.com/hacker0x01|Y|Private|Y|https://hackerone.com/leaderboard|
+|HACKTIFY|hacktify.eu/en|Central and Eastern Europe|https://twitter.com/HACKTIFY_|Y|Both|Y|Y|
 |Hacktrophy|hacktrophy.com|Slovakia|https://twitter.com/hacktrophy|N|||NIL|
 |Huntr|huntr.dev|UK|https://twitter.com/huntrdev|Y|Both|Y|https://huntr.dev/leaderboard|
 |Intigriti|intigriti.com|Belgium|https://twitter.com/intigriti|Y|Both|Y|intigriti.com/leaderboard|
