@@ -6,7 +6,7 @@ A ongoing community-powered collection of all known bug bounty platforms, vulner
 |---|---|---|---|---|---|---|
 |[Antihack.me](https://antihack.me)|Singapore|@AntihackMe|✅|🤫 + 📣|✅|https://www.antihack.me/leaderboard|
 |[Bluuk](https://bluuk.io)|Romania|@debluuk|✅|🤫|❓|❓|
-|[Bug Bounty Switzerland)](https://bugbounty.ch)|Switzerland|@bugbounty_ch|✅|🤫 + 📣|✅|❓|
+|[Bug Bounty Switzerland](https://bugbounty.ch)|Switzerland|@bugbounty_ch|✅|🤫 + 📣|✅|❓|
 |[Bug Hunt](https://bughunt.com.br)|Brazil|❓|✅|🤫 + 📣|✅|❓|
 |[bugbounty.jp](https://bugbounty.jp)|Japan|@BugBounty_jp|✅|🤫 + 📣|✅|https://bugbounty.jp/users/ranking|
 |[bugbounty.sa](https://bugbounty.sa)|Saudi Arabia|❓|❌|🤫|❓|❓|
