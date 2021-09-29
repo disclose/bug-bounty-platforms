@@ -26,6 +26,7 @@ A ongoing community-powered collection of all known bug bounty platforms, vulner
 |[HACKTIFY](https://hacktify.eu/en)|Central and Eastern Europe|@HACKTIFY_|✅|🤫 + 📣|✅|❓|
 |[Hacktrophy](https://hacktrophy.com)|Slovakia|@hacktrophy|❌|🤫|❓|❓|
 |[Huntr](https://huntr.dev)|UK|@huntrdev|✅|🤫 + 📣|✅|https://huntr.dev/leaderboard|
+|[Immunefi](https://immunefi.com)|❓|[@immunefi](https://twitter.com/immunefi)|✅|📣|✅|❓|
 |[Intigriti](https://intigriti.com)|Belgium|@intigriti|✅|🤫 + 📣|✅|https://intigriti.com/leaderboard|
 |[Open Bug Bounty](https://openbugbounty.org)|Bangladesh|@openbugbounty|✅|📣|✅|https://www.openbugbounty.org/|
 |[PlugBounty](https://plugbounty.com)|❓|@plugbounty|❌|❓|❓|❓|
