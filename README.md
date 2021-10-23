@@ -1,6 +1,8 @@
 # Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms
 
-A ongoing community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
+A ongoing community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.  
+
+Is there a platform or detail missing, or have you spotted something wrong? This site is open source. [Improve this page](https://github.com/disclose/bug-bounty-platforms/edit/main/README.md)!
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
