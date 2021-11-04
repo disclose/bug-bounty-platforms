@@ -25,6 +25,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Findbug | Kosovo | @Findbugks | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Hackenproof | Ukraine | @hacken_io | ✅ | 🤫 + 📣  | ✅ | https://hackenproof.com/leaderboard | https://hackenproof.com/programs |
 | HackerOne | USA | @hacker0x01 | ✅ | 🤫 + 📣  | ✅ | https://hackerone.com/leaderboard | https://hackerone.com/directory/programs?order_direction=DESC&order_field=resolved_report_count |
+| Hackrate | Hungary, Europe | @hackrate | ✅ | 🤫 + 📣  | ✅ | https://hckrt.com/Profiles/Leaderboard | https://hckrt.com/Programs |
 | HACKTIFY | Central and Eastern Europe | @HACKTIFY_ | ✅ | 🤫 + 📣  | ✅ | https://www.hacktify.eu/en/leaderboard/ | https://www.hacktify.eu/en/public-programs/ |
 | Hacktrophy | Slovakia | @hacktrophy | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Huntr | UK | @huntrdev | ✅ | 🤫 + 📣  | ✅ | https://huntr.dev/leaderboard | https://huntr.dev/bounties/hacktivity |
