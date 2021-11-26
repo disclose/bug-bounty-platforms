@@ -49,7 +49,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Vulbox | China | ❓ | ✅ | 🤫 + 📣  | ✅ | https://www.vulbox.com/top/season | https://www.vulbox.com/projects/list |
 | Vulnerability Lab | Germany | @vuln_lab | ✅ | 🤫 + 📣  | ✅ | https://www.vulnerability-lab.com/hacktivity.php | ❓ |
 | Vulnscope | Chile | @vulnscope | ✅ | 🤫 | ✅ | https://www.vulnscope.com/hacker-ranking | https://www.vulnscope.com/programas |
-| White Hub | Vietnam | @CyStackSecurity | ✅ | 🤫 + 📣  | ✅ | https://whitehub.net/leaderboard | https://whitehub.net/programs |
+| WhiteHub | Vietnam | @CyStackSecurity | ✅ | 🤫 + 📣  | ✅ | https://whitehub.net/leaderboard | https://whitehub.net/programs |
 | YesWeHack | France | @yeswehack | ✅ | 🤫 + 📣  | ✅ | https://yeswehack.com/ranking | https://yeswehack.com/programs |
 | Yogosha | France | @yogoshaofficial | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Zero Day Initiative | USA | @thezdi | ✅ | 📣 | ✅ | https://www.zerodayinitiative.com/advisories/published/ | ❓ |
