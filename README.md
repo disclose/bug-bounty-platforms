@@ -23,6 +23,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Dvuln | Australia | [@d_vuln](https://twitter.com/d_vuln) | ✅ | 🤫 | ✅ | ❓ | https://securityat.me/vdp_directory |
 | Federacy | USA | [@federacy](https://twitter.com/federacy) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Findbug | Kosovo | [@Findbugks](https://twitter.com/Findbugks) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| Gradle | USA | [@gradle](https://twitter.com/gradle) | ✅ | 📣  | ❌ | ❓ | https://github.com/gradle/.github/blob/master/SECURITY.md
 | Hackenproof | Ukraine | [@hacken_io](https://twitter.com/hacken_io) | ✅ | 🤫 + 📣  | ✅ | https://hackenproof.com/leaderboard | https://hackenproof.com/programs |
 | HackerOne | USA | [@hacker0x01](https://twitter.com/hacker0x01) | ✅ | 🤫 + 📣  | ✅ | https://hackerone.com/leaderboard | https://hackerone.com/directory/programs?order_direction=DESC&order_field=resolved_report_count |
 | Hackrate | Hungary, Europe | [@hackrate](https://twitter.com/hackrate) | ✅ | 🤫 + 📣  | ✅ | https://hckrt.com/Profiles/Leaderboard | https://hckrt.com/Programs |
