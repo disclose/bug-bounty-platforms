@@ -34,7 +34,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
 | PlugBounty | ❓ | [@plugbounty](https://twitter.com/plugbounty) | ❌ | ❓ | ❓ | ❓ | ❓ |
 | Praetorian | USA | [@praetorian_inc](https://twitter.com/praetorian_inc) | ❌ | ❓ | ❓ | ❓ | ❓ |
-| Red Storm | Indonesia | ❓ | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
+| RedStorm | Indonesia | [@redstorm_io](https://twitter.com/redstorm_io) | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
 | Safehats | India | [@SafeHats](https://twitter.com/SafeHats) | ❌ | ❓ | ❓ | ❓ | ❓ |
 | Safevuln | Vietnam | ❓ | ✅ | 📣 | ✅ | https://safevuln.com/leaderboard | https://safevuln.com/programs |
 | ScanTitan | Netherlands | [@scantitan](https://twitter.com/scantitan) | ✅ | 🤫 | ✅ | ❓ | ❓ |
