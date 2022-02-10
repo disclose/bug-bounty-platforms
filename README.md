@@ -8,6 +8,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
 | Antihack.me | Singapore | [@AntihackMe](https://twitter.com/AntihackMe) | ✅ | 🤫 + 📣  | ✅ | https://www.antihack.me/leaderboard | ❓ |
 | Bluuk | Romania | [@debluuk](https://twitter.com/debluuk) | ✅ | 🤫 | ❓ | ❓ | ❓ |
+| Bug Bounter | Estonia | [@bugbounterr](https://twitter.com/bugbounterr) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | bugbounty.jp | Japan | [@BugBounty_jp](https://twitter.com/BugBounty_jp) | ✅ | 🤫 + 📣  | ✅ | https://bugbounty.jp/users/ranking | https://bugbounty.jp/program/list |
