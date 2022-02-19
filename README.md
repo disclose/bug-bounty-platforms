@@ -21,6 +21,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Dvuln | Australia | [@d_vuln](https://twitter.com/d_vuln) | ✅ | 🤫 | ✅ | ❓ | https://securityat.me/vdp_directory |
+| EpicBounties | Spain | [@epicbounties](https://twitter.com/epicbounties) | ✅ | 🤫 + 📣 | ✅ | https://app.epicbounties.com/hunter-ranking | https://app.epicbounties.com/programs |
 | Federacy | USA | [@federacy](https://twitter.com/federacy) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Findbug | Kosovo | [@Findbugks](https://twitter.com/Findbugks) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Hackenproof | Ukraine | [@hacken_io](https://twitter.com/hacken_io) | ✅ | 🤫 + 📣  | ✅ | https://hackenproof.com/leaderboard | https://hackenproof.com/programs |
