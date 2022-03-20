@@ -30,6 +30,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Hackrate | Hungary, Europe | [@hackrate](https://twitter.com/hackrate) | ✅ | 🤫 + 📣  | ✅ | https://hckrt.com/Profiles/Leaderboard | https://hckrt.com/Programs |
 | HACKTIFY | Central and Eastern Europe | [@HACKTIFY_](https://twitter.com/HACKTIFY_) | ✅ | 🤫 + 📣  | ✅ | https://www.hacktify.eu/en/leaderboard/ | https://www.hacktify.eu/en/public-programs/ |
 | Hacktrophy | Slovakia | [@hacktrophy](https://twitter.com/hacktrophy) | ❌ | 🤫 | ❓ | ❓ | ❓ |
+| Hats | ❓ | [@HatsFinance](https://twitter.com/HatsFinance) | ✅ | 📣 | ✅ | ❓ | https://app.hats.finance/vaults |
 | Huntr | UK | [@huntrdev](https://twitter.com/huntrdev) | ✅ | 🤫 + 📣  | ✅ | https://huntr.dev/leaderboard | https://huntr.dev/bounties/hacktivity |
 | Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | ❓ | https://immunefi.com/explore/ |
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
