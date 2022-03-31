@@ -18,7 +18,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/leaderboard | https://bugbase.in/h |
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
-| Code4rena |❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
+| Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
