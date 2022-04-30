@@ -42,6 +42,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Safevuln | Vietnam | ❓ | ✅ | 📣 | ✅ | https://safevuln.com/leaderboard | https://safevuln.com/programs |
 | ScanTitan | Netherlands | [@scantitan](https://twitter.com/scantitan) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Secuna | Phillipines | [@SecunaSecurity](https://twitter.com/SecunaSecurity) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| SecureBug | Sweden | [@securebug_ab](https://twitter.com/securebug_ab) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | SlowMist | China | [@SlowMist_Team](https://twitter.com/SlowMist_Team) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Swarmnetics | Singapore | [@swarmnetics](https://twitter.com/swarmnetics) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Synack | USA | [@synack](https://twitter.com/synack) | ✅ | 🤫 | ✅ | ❓ | ❓ |
