@@ -21,6 +21,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
+| Cyscope | Switzerland & Latam| [@cy_scope](https://twitter.com/cy_scope) | ✅ | 🤫 + 📣 | ✅ | ❓ | ❓ |
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Dvuln | Australia | [@d_vuln](https://twitter.com/d_vuln) | ✅ | 🤫 | ✅ | ❓ | https://securityat.me/vdp_directory |
 | EpicBounties | Spain and LATAM | [@epicbounties](https://twitter.com/epicbounties) | ✅ | 🤫 + 📣 | ✅ | https://app.epicbounties.com/hunter-ranking | https://app.epicbounties.com/programs |
