@@ -25,7 +25,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Dvuln | Australia | [@d_vuln](https://twitter.com/d_vuln) | ✅ | 🤫 | ✅ | ❓ | https://securityat.me/vdp_directory |
 | EpicBounties | Spain and LATAM | [@epicbounties](https://twitter.com/epicbounties) | ✅ | 🤫 + 📣 | ✅ | https://app.epicbounties.com/hunter-ranking | https://app.epicbounties.com/programs |
-| Federacy | USA | [@federacy](https://twitter.com/federacy) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
+| Federacy | USA | [@_federacy](https://twitter.com/_federacy) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Findbug | Kosovo | [@Findbugks](https://twitter.com/Findbugks) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | HackenProof | Estonia | [@HackenProof](https://twitter.com/HackenProof) | ✅ | 🤫 + 📣  | ✅ | https://hackenproof.com/leaderboard | https://hackenproof.com/programs |
 | HackerOne | USA | [@hacker0x01](https://twitter.com/hacker0x01) | ✅ | 🤫 + 📣  | ✅ | https://hackerone.com/leaderboard | https://hackerone.com/directory/programs?order_direction=DESC&order_field=resolved_report_count |
