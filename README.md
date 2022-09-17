@@ -61,3 +61,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Zero Day Initiative | USA | [@thezdi](https://twitter.com/thezdi) | ✅ | 📣 | ✅ | https://www.zerodayinitiative.com/advisories/published/ | ❓ |
 | Zerocopter | Netherlands | [@zerocopter](https://twitter.com/zerocopter) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
+| GObugfree | Switzerland | [@gobugfree](https://twitter.com/gobugfree) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.gobugfree.com/programs |
