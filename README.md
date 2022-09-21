@@ -62,3 +62,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Zerocopter | Netherlands | [@zerocopter](https://twitter.com/zerocopter) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
 | GObugfree | Switzerland | [@gobugfree](https://twitter.com/gobugfree) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.gobugfree.com/programs |
+| Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
