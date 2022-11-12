@@ -34,7 +34,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Hacktrophy | Slovakia | [@hacktrophy](https://twitter.com/hacktrophy) | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Hats | ❓ | [@HatsFinance](https://twitter.com/HatsFinance) | ✅ | 📣 | ✅ | ❓ | https://app.hats.finance/vaults |
 | Huntr | UK | [@huntrdev](https://twitter.com/huntrdev) | ✅ | 🤫 + 📣  | ✅ | https://huntr.dev/leaderboard | https://huntr.dev/bounties/hacktivity |
-| Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | ❓ | https://immunefi.com/explore/ |
+| Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | https://immunefi.com/leaderboard/ | https://immunefi.com/explore/ |
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
 | PlugBounty | ❓ | [@plugbounty](https://twitter.com/plugbounty) | ❌ | ❓ | ❓ | ❓ | ❓ |
