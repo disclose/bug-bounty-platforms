@@ -61,4 +61,6 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Zerocopter | Netherlands | [@zerocopter](https://twitter.com/zerocopter) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
 | GObugfree | Switzerland | [@gobugfree](https://twitter.com/gobugfree) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.gobugfree.com/programs |
-| Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | https://bugzero.io/leaderboard | https://bugzero.io/programs |
+| Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
+| SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
+| The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
