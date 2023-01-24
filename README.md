@@ -16,7 +16,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugv | Nepal | [@bugvsecurity](https://twitter.com/bugvsecurity) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/leaderboard | https://bugbase.in/h |
 | Capture The Bug | New Zealand | [@Capturethebugs](https://twitter.com/Capturethebugs) | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
+| Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.inspectiv.com/#/programs |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
@@ -34,7 +34,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Hacktrophy | Slovakia | [@hacktrophy](https://twitter.com/hacktrophy) | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Hats | ❓ | [@HatsFinance](https://twitter.com/HatsFinance) | ✅ | 📣 | ✅ | ❓ | https://app.hats.finance/vaults |
 | Huntr | UK | [@huntrdev](https://twitter.com/huntrdev) | ✅ | 🤫 + 📣  | ✅ | https://huntr.dev/leaderboard | https://huntr.dev/bounties/hacktivity |
-| Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | ❓ | https://immunefi.com/explore/ |
+| Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | https://immunefi.com/leaderboard/ | https://immunefi.com/explore/ |
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
 | PlugBounty | ❓ | [@plugbounty](https://twitter.com/plugbounty) | ❌ | ❓ | ❓ | ❓ | ❓ |
