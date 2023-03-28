@@ -37,6 +37,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | https://immunefi.com/leaderboard/ | https://immunefi.com/explore/ |
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
+| Pentabug | India | [@pentabug](https://twitter.com/pentabug) | ✅ | 🤫 | ✅ | https://www.pentabug.com | ❓ |
 | PlugBounty | ❓ | [@plugbounty](https://twitter.com/plugbounty) | ❌ | ❓ | ❓ | ❓ | ❓ |
 | Praetorian | USA | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ |
 | RedStorm | Indonesia | [@redstorm_io](https://twitter.com/redstorm_io) | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
