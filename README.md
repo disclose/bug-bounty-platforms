@@ -14,7 +14,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugcrowd | USA | [@bugcrowd](https://twitter.com/bugcrowd) | ✅ | 🤫 + 📣  | ✅ | https://bugcrowd.com/leaderboard | https://bugcrowd.com/programs |
 | bugsbounty.io | England | [@bugsbounty_com](https://twitter.com/bugsbounty_com) | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Bugv | Nepal | [@bugvsecurity](https://twitter.com/bugvsecurity) | ✅ | 📣 | ✅ | ❓ | ❓ |
-| Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/leaderboard | https://bugbase.in/h |
+| Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/dashboard/leaderboard | https://bugbase.in/h |
 | Capture The Bug | New Zealand | [@Capturethebugs](https://twitter.com/Capturethebugs) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.inspectiv.com/#/programs |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
