@@ -6,7 +6,6 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| Antihack.me | Singapore | ❌ | ✅ | 🤫 + 📣  | ✅ | https://www.antihack.me/leaderboard | ❓ |
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | bugbounty.jp | Japan | [@BugBounty_jp](https://twitter.com/BugBounty_jp) | ✅ | 🤫 + 📣  | ✅ | https://bugbounty.jp/users/ranking | https://bugbounty.jp/program/list |
@@ -15,7 +14,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | bugsbounty.io | England | [@bugsbounty_com](https://twitter.com/bugsbounty_com) | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Bugv | Nepal | [@bugvsecurity](https://twitter.com/bugvsecurity) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/dashboard/leaderboard | https://bugbase.in/h |
-| Capture The Bug | New Zealand | [@Capturethebugs](https://twitter.com/Capturethebugs) | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Capture The Bug | New Zealand | [@Capturethebugs](https://twitter.com/Capturethebugs) | ❓ | ❓ | ❓ | ❌ | https://capturethebug.xyz/programs/ |
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.inspectiv.com/#/programs |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
@@ -31,21 +30,18 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | HackerOne | USA | [@hacker0x01](https://twitter.com/hacker0x01) | ✅ | 🤫 + 📣  | ✅ | https://hackerone.com/leaderboard | https://hackerone.com/directory/programs?order_direction=DESC&order_field=resolved_report_count |
 | Hackrate | Hungary, Europe | [@hackrate](https://twitter.com/hackrate) | ✅ | 🤫 + 📣  | ✅ | https://hckrt.com/Profiles/Leaderboard | https://hckrt.com/Programs |
 | HACKTIFY | Central and Eastern Europe | [@HACKTIFY_](https://twitter.com/HACKTIFY_) | ✅ | 🤫 + 📣  | ✅ | https://www.hacktify.eu/en/leaderboard/ | https://www.hacktify.eu/en/public-programs/ |
-| Hacktrophy | Slovakia | [@hacktrophy](https://twitter.com/hacktrophy) | ❌ | 🤫 | ❓ | ❓ | ❓ |
+| Hacktrophy | Slovakia | [@hacktrophy](https://twitter.com/hacktrophy) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Hats | ❓ | [@HatsFinance](https://twitter.com/HatsFinance) | ✅ | 📣 | ✅ | ❓ | https://app.hats.finance/vaults |
 | Huntr | UK | [@huntrdev](https://twitter.com/huntrdev) | ✅ | 🤫 + 📣  | ✅ | https://huntr.dev/leaderboard | https://huntr.dev/bounties/hacktivity |
 | Immunefi | ❓ | [@immunefi](https://twitter.com/immunefi) | ✅ | 📣 | ✅ | https://immunefi.com/leaderboard/ | https://immunefi.com/explore/ |
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
+| Nordic Defender | Sweden | [@nordicdefender](https://twitter.com/nordicdefender) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
 | Pentabug | India | [@pentabug](https://twitter.com/pentabug) | ✅ | 🤫 | ✅ | https://www.pentabug.com | ❓ |
-| PlugBounty | ❓ | [@plugbounty](https://twitter.com/plugbounty) | ❌ | ❓ | ❓ | ❓ | ❓ |
-| Praetorian | USA | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ |
 | RedStorm | Indonesia | [@redstorm_io](https://twitter.com/redstorm_io) | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
-| Safehats | India | [@SafeHats](https://twitter.com/SafeHats) | ❌ | ❓ | ❓ | ❓ | ❓ |
 | Safevuln | Vietnam | ❓ | ✅ | 📣 | ✅ | https://safevuln.com/leaderboard | https://safevuln.com/programs |
 | ScanTitan | Netherlands | [@scantitan](https://twitter.com/scantitan) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Secuna | Phillipines | [@SecunaSecurity](https://twitter.com/SecunaSecurity) | ✅ | 🤫 | ✅ | ❓ | ❓ |
-| SecureBug | Sweden | [@securebug_ab](https://twitter.com/securebug_ab) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | SlowMist | China | [@SlowMist_Team](https://twitter.com/SlowMist_Team) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Swarmnetics | Singapore | [@swarmnetics](https://twitter.com/swarmnetics) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Synack | USA | [@synack](https://twitter.com/synack) | ✅ | 🤫 | ✅ | ❓ | ❓ |
