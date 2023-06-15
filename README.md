@@ -49,7 +49,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | thebugbounty | Malaysia | [@thebugbounty](https://twitter.com/thebugbounty) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | v1bounty | Germany | [@v1bounty](https://twitter.com/v1bounty) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Vulbox | China | ❓ | ✅ | 🤫 + 📣  | ✅ | https://www.vulbox.com/top/season | https://www.vulbox.com/projects/list |
-| Vulnerability Lab | Germany | [@vuln_lab](https://twitter.com/vuln_lab) | ✅ | 🤫 + 📣  | ✅ | https://www.vulnerability-lab.com/hacktivity.php | ❓ |
+| Vulnerability Lab | Germany | ❓ | ✅ | 🤫 + 📣  | ✅ | https://www.vulnerability-lab.com/hacktivity.php | ❓ |
 | Vulnscope | Chile | [@vulnscope](https://twitter.com/vulnscope) | ✅ | 🤫 | ✅ | https://www.vulnscope.com/hacker-ranking | https://www.vulnscope.com/programas |
 | WhiteHub | Vietnam | [@CyStackSecurity](https://twitter.com/CyStackSecurity) | ✅ | 🤫 + 📣  | ✅ | https://whitehub.net/leaderboard | https://whitehub.net/programs |
 | YesWeHack | France | [@yeswehack](https://twitter.com/yeswehack) | ✅ | 🤫 + 📣  | ✅ | https://yeswehack.com/ranking | https://yeswehack.com/programs |
