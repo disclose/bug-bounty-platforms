@@ -6,9 +6,10 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
+| Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | https://app.bugbounter.com/public-top-bounters | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | bugbounty.jp | Japan | [@BugBounty_jp](https://twitter.com/BugBounty_jp) | ✅ | 🤫 + 📣  | ✅ | https://bugbounty.jp/users/ranking | https://bugbounty.jp/program/list |
+| BugBounter | Estonia | [@bugbounterr](https://twitter.com/bugbounterr) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | bugbounty.sa | Saudi Arabia | [@BugBountySA](https://twitter.com/BugBountySA) | ✅ | 🤫 | ✅ | https://bugbounty.sa/leaderboard | ❓ |
 | Bugcrowd | USA | [@bugcrowd](https://twitter.com/bugcrowd) | ✅ | 🤫 + 📣  | ✅ | https://bugcrowd.com/leaderboard | https://bugcrowd.com/programs |
 | bugsbounty.io | England | [@bugsbounty_com](https://twitter.com/bugsbounty_com) | ❌ | 🤫 | ❓ | ❓ | ❓ |
