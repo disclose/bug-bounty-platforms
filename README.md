@@ -15,6 +15,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | bugsbounty.io | England | [@bugsbounty_com](https://twitter.com/bugsbounty_com) | ❌ | 🤫 | ❓ | ❓ | ❓ |
 | Bugv | Nepal | [@bugvsecurity](https://twitter.com/bugvsecurity) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Bugbase | India | [@bugbase](https://twitter.com/BugBase) | ✅ | 🤫 + 📣 | ✅ | https://bugbase.in/dashboard/leaderboard | https://bugbase.in/h |
+| BugRap | ❓ | [@BugRap_Team](https://twitter.com/BugRap_Team) | ✅ | 📣 | ✅ | https://bugrap.io/whiteHats | https://bugrap.io/bounties |
 | Capture The Bug | New Zealand | [@Capturethebugs](https://twitter.com/Capturethebugs) | ❓ | ❓ | ❓ | ❌ | https://capturethebug.xyz/programs/ |
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.inspectiv.com/#/programs |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
@@ -43,6 +44,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Safevuln | Vietnam | ❓ | ✅ | 📣 | ✅ | https://safevuln.com/leaderboard | https://safevuln.com/programs |
 | ScanTitan | Netherlands | [@scantitan](https://twitter.com/scantitan) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Secuna | Phillipines | [@SecunaSecurity](https://twitter.com/SecunaSecurity) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| Secure3 | ❓ | [@secure3io](https://twitter.com/secure3io) | ✅ | 📣 | ✅ | ❓ | https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/README.md |
 | SlowMist | China | [@SlowMist_Team](https://twitter.com/SlowMist_Team) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Swarmnetics | Singapore | [@swarmnetics](https://twitter.com/swarmnetics) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Synack | USA | [@synack](https://twitter.com/synack) | ✅ | 🤫 | ✅ | ❓ | ❓ |
