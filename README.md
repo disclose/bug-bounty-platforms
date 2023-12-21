@@ -64,3 +64,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
 | SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
 | The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
+| Teklabspace | Nigeria | [@teklabspace](https://x.com/teklabspace?t=nYn04e6-GNB-974F9gCZfg&s=09) | ✅ | 📣 | ✅ | https://app.teklabspace.com/leaders-board/ | https://app.teklabspace.com/program/ |
