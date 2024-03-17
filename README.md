@@ -1,5 +1,3 @@
-# Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms
-
 A ongoing community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.  
 
 Is there a platform or detail missing, or have you spotted something wrong? This site is open source. [Improve this page](https://github.com/disclose/bug-bounty-platforms/edit/main/README.md)!
@@ -65,3 +63,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
 | The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
 | Teklabspace | Nigeria | [@teklabspace](https://x.com/teklabspace?t=nYn04e6-GNB-974F9gCZfg&s=09) | ✅ | 📣 | ✅ | https://app.teklabspace.com/leaders-board/ | https://app.teklabspace.com/program/ |
+| Global Media Services | UK | N/A | ✅ | 🤫 + 📣  | ✅ | ❌ | https://global.com/bug-bounty-policy/ |
