@@ -6,6 +6,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
+| ødin | USA | [@0dinai](https://twitter.com/0dinai) | ❓ | ❓ | ❓ | ❓ | ❓ |
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | BugBounter | US & Estonia & Turkey | [@bugbounterr](https://twitter.com/bugbounterr) |  ✅ | 🤫 + 📣  | ✅ | https://app.bugbounter.com/public-top-bounters | ❓ |
