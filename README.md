@@ -8,6 +8,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
+| Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
 | BugBounter | US & Estonia & Turkey | [@bugbounterr](https://twitter.com/bugbounterr) |  ✅ | 🤫 + 📣  | ✅ | https://app.bugbounter.com/public-top-bounters | ❓ |
 | bugbounty.jp | Japan | [@BugBounty_jp](https://twitter.com/BugBounty_jp) | ✅ | 🤫 + 📣  | ✅ | https://bugbounty.jp/users/ranking | https://bugbounty.jp/program/list |
 | bugbounty.sa | Saudi Arabia | [@BugBountySA](https://twitter.com/BugBountySA) | ✅ | 🤫 | ✅ | https://bugbounty.sa/leaderboard | ❓ |
@@ -29,6 +30,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | EpicBounties | Spain and LATAM | [@epicbounties](https://twitter.com/epicbounties) | ✅ | 🤫 + 📣 | ✅ | https://app.epicbounties.com/hunter-ranking | https://app.epicbounties.com/programs |
 | Federacy | USA | [@_federacy](https://twitter.com/_federacy) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Findbug | Kosovo | [@Findbugks](https://twitter.com/Findbugks) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| GObugfree | Switzerland | [@gobugfree](https://twitter.com/gobugfree) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.gobugfree.com/programs |
 | HackenProof | Estonia | [@HackenProof](https://twitter.com/HackenProof) | ✅ | 🤫 + 📣  | ✅ | https://hackenproof.com/leaderboard | https://hackenproof.com/programs |
 | HackerOne | USA | [@hacker0x01](https://twitter.com/hacker0x01) | ✅ | 🤫 + 📣  | ✅ | https://hackerone.com/leaderboard | https://hackerone.com/directory/programs?order_direction=DESC&order_field=resolved_report_count |
 | Hackrate | Hungary, Europe | [@hackrate](https://twitter.com/hackrate) | ✅ | 🤫 + 📣  | ✅ | https://hckrt.com/Profiles/Leaderboard | https://hckrt.com/Programs |
@@ -41,15 +43,19 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Nordic Defender | Sweden | [@nordicdefender](https://twitter.com/nordicdefender) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
 | Pentabug | India | [@pentabug](https://twitter.com/pentabug) | ✅ | 🤫 | ✅ | https://www.pentabug.com | ❓ |
+| Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
 | RedStorm | Indonesia | [@redstorm_io](https://twitter.com/redstorm_io) | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
 | Safevuln | Vietnam | ❓ | ✅ | 📣 | ✅ | https://safevuln.com/leaderboard | https://safevuln.com/programs |
 | ScanTitan | Netherlands | [@scantitan](https://twitter.com/scantitan) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Secuna | Phillipines | [@SecunaSecurity](https://twitter.com/SecunaSecurity) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Secure3 | ❓ | [@secure3io](https://twitter.com/secure3io) | ✅ | 📣 | ✅ | ❓ | https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/README.md |
+| SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
 | SlowMist | China | [@SlowMist_Team](https://twitter.com/SlowMist_Team) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Swarmnetics | Singapore | [@swarmnetics](https://twitter.com/swarmnetics) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Synack | USA | [@synack](https://twitter.com/synack) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| Teklabspace | Nigeria | [@teklabspace](https://x.com/teklabspace?t=nYn04e6-GNB-974F9gCZfg&s=09) | ✅ | 📣 | ✅ | https://app.teklabspace.com/leaders-board/ | https://app.teklabspace.com/program/ |
 | Testbirds | Germany | [@Testbirds](https://twitter.com/Testbirds) | ✅ | 🤫 | ❌ | ❓ | ❓ |
+| The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
 | thebugbounty | Malaysia | [@thebugbounty](https://twitter.com/thebugbounty) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | v1bounty | Germany | [@v1bounty](https://twitter.com/v1bounty) | ✅ | 📣 | ✅ | ❓ | ❓ |
 | Vulbox | China | ❓ | ✅ | 🤫 + 📣  | ✅ | https://www.vulbox.com/top/season | https://www.vulbox.com/projects/list |
@@ -60,9 +66,3 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Yogosha | France | [@yogoshaofficial](https://twitter.com/yogoshaofficial) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Zero Day Initiative | USA | [@thezdi](https://twitter.com/thezdi) | ✅ | 📣 | ✅ | https://www.zerodayinitiative.com/advisories/published/ | ❓ |
 | Zerocopter | Netherlands | [@zerocopter](https://twitter.com/zerocopter) | ✅ | 🤫 | ✅ | ❓ | ❓ |
-| Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
-| GObugfree | Switzerland | [@gobugfree](https://twitter.com/gobugfree) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.gobugfree.com/programs |
-| Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
-| SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
-| The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
-| Teklabspace | Nigeria | [@teklabspace](https://x.com/teklabspace?t=nYn04e6-GNB-974F9gCZfg&s=09) | ✅ | 📣 | ✅ | https://app.teklabspace.com/leaders-board/ | https://app.teklabspace.com/program/ |
