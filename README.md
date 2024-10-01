@@ -43,6 +43,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Intigriti | Belgium | [@intigriti](https://twitter.com/intigriti) | ✅ | 🤫 + 📣  | ✅ | https://intigriti.com/leaderboard | https://www.intigriti.com/programs |
 | Nordic Defender | Sweden | [@nordicdefender](https://twitter.com/nordicdefender) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | Open Bug Bounty | Bangladesh | [@openbugbounty](https://twitter.com/openbugbounty) | ✅ | 📣 | ✅ | https://www.openbugbounty.org/ | https://www.openbugbounty.org/bugbounty-list/ |
+| Opire | USA | [@opire_dev](https://twitter.com/opire_dev) | ✅ | 🤫 + 📣  | ✅ | ❓ | [https://app.opire.dev](https://app.opire.dev) |
 | Pentabug | India | [@pentabug](https://twitter.com/pentabug) | ✅ | 🤫 | ✅ | https://www.pentabug.com | ❓ |
 | Ravro | Iran | [@Ravro_ir](https://twitter.com/ravro_ir) | ✅ | 🤫 + 📣  | ✅ | https://www.ravro.ir/reports | https://www.ravro.ir/companies |
 | RedStorm | Indonesia | [@redstorm_io](https://twitter.com/redstorm_io) | ✅ | ✅ | ✅ | ❓ | https://www.redstorm.io/program |
