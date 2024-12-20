@@ -67,3 +67,5 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Yogosha | France | [@yogoshaofficial](https://twitter.com/yogoshaofficial) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Zero Day Initiative | USA | [@thezdi](https://twitter.com/thezdi) | ✅ | 📣 | ✅ | https://www.zerodayinitiative.com/advisories/published/ | ❓ |
 | Zerocopter | Netherlands | [@zerocopter](https://twitter.com/zerocopter) | ✅ | 🤫 | ✅ | ❓ | ❓ |
+| Com Olho | India | [@com_olho](https://x.com/com_olho) | ✅ | 🤫 + 📣 | ✅ | [Researcher Community](https://cyber.comolho.com/researcher-community/) | [Bug Bounty Programs](https://cyber.comolho.com/programs/bug-bounty/) |
+
