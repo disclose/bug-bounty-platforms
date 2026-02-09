@@ -12,6 +12,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bug Bounty Switzerland | [https://bugbounty.ch](https://bugbounty.ch) | Yes | Switzerland | [@bugbounty_ch](https://x.com/bugbounty_ch) | Private + Public | Yes | | |
 | Bug Hunt | [https://bughunt.com.br](https://bughunt.com.br) | Yes | Brazil | | Private + Public | Yes | [https://bughunt.com.br/ranking-bughunters.html](https://bughunt.com.br/ranking-bughunters.html) | |
 | Bugbase | [https://bugbase.ai](https://bugbase.ai) | Yes | India | [@bugbase](https://x.com/bugbase) | Private + Public | Yes | [https://bugbase.in/dashboard/leaderboard](https://bugbase.in/dashboard/leaderboard) | [https://bugbase.ai/programs](https://bugbase.ai/programs) |
+| Bugbop | [https://bugbop.com](https://bugbop.com) | Yes | Australia | [@BugbopApp](https://x.com/BugbopApp) | Private + Public | Yes | | [https://bugbop.com/public-programs](https://bugbop.com/public-programs) |
 | BugBounter | [https://bugbounter.com](https://bugbounter.com) | Yes | US & Estonia & Turkey | [@bugbounterr](https://x.com/bugbounterr) | Private + Public | Yes | [https://app.bugbounter.com/public-top-bounters](https://app.bugbounter.com/public-top-bounters) | |
 | BugBounty Argentina | [https://bugbountyargentina.org](https://bugbountyargentina.org) | | Argentina | | | | | |
 | bugbounty.jp | [https://bugbounty.jp](https://bugbounty.jp) | Yes | Japan | | Private + Public | | | [https://bugbounty.jp/en/](https://bugbounty.jp/en/) |
