@@ -70,6 +70,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | safehats | [https://safehats.com](https://safehats.com/) | India | | Private + Public | Yes | [https://app.safehats.com/member/leaderboard](https://app.safehats.com/member/leaderboard) | |
 | Safevuln | [https://SafeVuln.com](https://SafeVuln.com) | Vietnam | | Public | Yes | [https://safevuln.com/leaderboard](https://safevuln.com/leaderboard) | [https://safevuln.com/programs](https://safevuln.com/programs) |
 | Secuna | [https://secuna.io](https://secuna.io) | Philippines | [@SecunaSecurity](https://x.com/SecunaSecurity) | Private | Yes | | |
+| Secur0 | [https://secur0.com](https://secur0.com) | Europe & Latam |  | Private + Public | Yes | [https://app.secur0.com/leaderboards](https://app.secur0.com/leaderboards) | [https://app.secur0.com/programs](https://app.secur0.com/programs) |
 | Sherlock | [https://sherlock.xyz](https://sherlock.xyz) | | [@sherlockdefi](https://x.com/sherlockdefi) | Public | Yes | [https://app.sherlock.xyz/audits/leaderboard](https://app.sherlock.xyz/audits/leaderboard) | [https://app.sherlock.xyz/audits/contests](https://app.sherlock.xyz/audits/contests) |
 | Singapore GovTech VDP | [https://www.tech.gov.sg/report-vulnerability/](https://www.tech.gov.sg/report-vulnerability/) | Singapore | [@GovTechSG](https://x.com/GovTechSG) | Public | No | | |
 | SlowMist | [https://slowmist.com](https://slowmist.com) | China | [@SlowMist_Team](https://x.com/SlowMist_Team) | Public | Yes | | |
