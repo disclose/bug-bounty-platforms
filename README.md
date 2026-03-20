@@ -15,9 +15,12 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugbase | [https://bugbase.ai](https://bugbase.ai) | India | [@bugbase](https://x.com/bugbase) | Private + Public | Yes | [https://bugbase.ai/dashboard/leaderboard](https://bugbase.ai/dashboard/leaderboard) | [https://bugbase.ai/programs](https://bugbase.ai/programs) |
 | Bugbop | [https://bugbop.com](https://bugbop.com) | Australia | [@BugbopApp](https://x.com/BugbopApp) | Private + Public | Yes | | [https://bugbop.com/public-programs](https://bugbop.com/public-programs) |
 | BugBounter | [https://bugbounter.com](https://bugbounter.com) | US & Estonia & Turkey | [@bugbounterr](https://x.com/bugbounterr) | Private + Public | Yes | [https://app.bugbounter.com/public-top-bounters](https://app.bugbounter.com/public-top-bounters) | |
+| BugBounty.am | [https://bugbounty.am](https://bugbounty.am) | Armenia | | Private + Public | | | |
 | bugbounty.jp | [https://bugbounty.jp](https://bugbounty.jp) | Japan | | Private + Public | | | [https://bugbounty.jp/en/](https://bugbounty.jp/en/) |
+| BugBounty.ru | [https://bugbounty.ru](https://bugbounty.ru) | Russia | | Private + Public | | | |
 | bugbounty.sa | [https://bugbounty.sa](https://bugbounty.sa) | Saudi Arabia | [@BugBountySA](https://x.com/BugBountySA) | Private | Yes | [https://bugbounty.sa/leaderboard](https://bugbounty.sa/leaderboard) | |
 | Bugcrowd | [https://bugcrowd.com](https://bugcrowd.com) | USA | [@bugcrowd](https://x.com/bugcrowd) | Private + Public | Yes | [https://bugcrowd.com/leaderboard](https://bugcrowd.com/leaderboard) | [https://bugcrowd.com/programs](https://bugcrowd.com/programs) |
+| Buglab | [https://buglab.io](https://buglab.io) | Singapore | | Private + Public | Yes | | |
 | BugRap | [https://bugrap.io](https://bugrap.io) | | [@BugRap_Team](https://x.com/BugRap_Team) | Public | Yes | [https://bugrap.io/whiteHats](https://bugrap.io/whiteHats) | [https://bugrap.io/bounties](https://bugrap.io/bounties) |
 | bugsbounty.io | [https://bugsbounty.io](https://bugsbounty.io) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
@@ -36,6 +39,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | CyberTalents | [https://cybertalents.com](https://cybertalents.com) | Middle East | [@CyberTalents](https://x.com/CyberTalents) | Public | Yes | | |
 | Cyscope | [https://cyscope.io](https://cyscope.io) | Switzerland & Latam | [@cy_scope](https://x.com/cy_scope) | Private + Public | Yes | | |
 | Detectify | [https://detectify.com](https://detectify.com) | Sweden | [@detectify](https://x.com/detectify) | Crowdsource (ASM) | Yes | | |
+| DIVD | [https://www.divd.nl](https://www.divd.nl) | Netherlands | [@DIVDnl](https://x.com/DIVDnl) | Public | No | | |
 | Dvuln | [https://dvuln.com](https://dvuln.com) | Australia | [@d_vuln](https://x.com/d_vuln) | Private | Yes | | |
 | Federacy | [https://federacy.com](https://federacy.com) | USA | [@_federacy](https://x.com/_federacy) | Private + Public | Yes | | |
 | Findbug | [https://findbug.io](https://findbug.io) | Kosovo | [@Findbugks](https://x.com/Findbugks) | Private | Yes | | |
@@ -53,6 +57,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Inspectiv | [https://inspectiv.com](https://inspectiv.com) | USA | [@inspectiv](https://x.com/inspectiv) | Private + Public | Yes | | |
 | Intigriti | [https://intigriti.com](https://intigriti.com) | Belgium | [@intigriti](https://x.com/intigriti) | Private + Public | Yes | [https://intigriti.com/leaderboard](https://intigriti.com/leaderboard) | [https://intigriti.com/programs](https://intigriti.com/programs) |
 | IssueHunt | [https://issuehunt.io](https://issuehunt.io) | Japan | [@IssueHunt](https://x.com/IssueHunt) | Private + Public | Yes | | [https://issuehunt.io/programs](https://issuehunt.io/programs) |
+| LRQA Nettitude | [https://bugbounty.nettitude.com](https://bugbounty.nettitude.com) | UK | [@NettitudeGroup](https://x.com/NettitudeGroup) | Private | | | |
 | Nordic Defender | [https://nordicdefender.com](https://nordicdefender.com) | Sweden | [@nordicdefender](https://x.com/nordicdefender) | Private | | | |
 | ødin | [https://0din.ai](https://0din.ai) | USA | [@0dinai](https://x.com/0dinai) | | | | [https://0din.ai/scope](https://0din.ai/scope) |
 | Open Bug Bounty | [https://openbugbounty.org](https://openbugbounty.org) | Bangladesh | [@openbugbounty](https://x.com/openbugbounty) | Public | Yes | | [https://openbugbounty.org/bugbounty-list/](https://openbugbounty.org/bugbounty-list/) |
@@ -66,6 +71,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Safevuln | [https://safevuln.com](https://safevuln.com) | Vietnam | | Public | Yes | [https://safevuln.com/leaderboard](https://safevuln.com/leaderboard) | [https://safevuln.com/programs](https://safevuln.com/programs) |
 | Secuna | [https://secuna.io](https://secuna.io) | Philippines | [@SecunaSecurity](https://x.com/SecunaSecurity) | Private | Yes | | |
 | Secur0 | [https://secur0.com](https://secur0.com) | Europe & Latam | [@Secur00](https://x.com/Secur00) | Private + Public | Yes | [https://app.secur0.com/leaderboards](https://app.secur0.com/leaderboards) | [https://app.secur0.com/programs](https://app.secur0.com/programs) |
+| Secure3 | [https://secure3.io](https://secure3.io) | USA | [@Secure3io](https://x.com/Secure3io) | Private + Public | | | |
 | Sherlock | [https://sherlock.xyz](https://sherlock.xyz) | | [@sherlockdefi](https://x.com/sherlockdefi) | Public | Yes | [https://app.sherlock.xyz/audits/leaderboard](https://app.sherlock.xyz/audits/leaderboard) | [https://app.sherlock.xyz/audits/contests](https://app.sherlock.xyz/audits/contests) |
 | Singapore GovTech VDP | [https://www.tech.gov.sg/report-vulnerability/](https://www.tech.gov.sg/report-vulnerability/) | Singapore | [@GovTechSG](https://x.com/GovTechSG) | Public | No | | |
 | SlowMist | [https://slowmist.com](https://slowmist.com) | China | [@SlowMist_Team](https://x.com/SlowMist_Team) | Public | Yes | | |
