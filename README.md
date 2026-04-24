@@ -9,6 +9,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Australian Government VDP | [https://www.homeaffairs.gov.au](https://www.homeaffairs.gov.au) | Australia | | Public | No | | |
 | AuditOne | [https://auditone.io](https://auditone.io) | Europe | [@AuditOne_io](https://x.com/AuditOne_io) | Private + Public | Yes | [https://www.auditone.io/bounty-activity](https://www.auditone.io/bounty-activity) | [https://www.auditone.io/bug-bounty](https://www.auditone.io/bug-bounty) |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | | |
+| BountyTeam | [https://www.bountyteam.com](https://www.bountyteam.com) | China | | Private + Public | Yes | | |
 | Bug Bounty Box | [https://bugbountybox.com](https://bugbountybox.com) | Kenya/Africa | | | | | |
 | Bug Bounty Switzerland | [https://bugbounty.ch](https://bugbounty.ch) | Switzerland | [@bugbounty_ch](https://x.com/bugbounty_ch) | Private + Public | Yes | | |
 | Bug Hunt | [https://bughunt.com.br](https://bughunt.com.br) | Brazil | | Private + Public | Yes | [https://bughunt.com.br/ranking-bughunters.html](https://bughunt.com.br/ranking-bughunters.html) | |
@@ -17,25 +18,31 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | BugBounter | [https://bugbounter.com](https://bugbounter.com) | US & Estonia & Turkey | [@bugbounterr](https://x.com/bugbounterr) | Private + Public | Yes | [https://app.bugbounter.com/public-top-bounters](https://app.bugbounter.com/public-top-bounters) | |
 | BugBounty.am | [https://bugbounty.am](https://bugbounty.am) | Armenia | | Private + Public | | | |
 | bugbounty.jp | [https://bugbounty.jp](https://bugbounty.jp) | Japan | | Private + Public | | | [https://bugbounty.jp/en/](https://bugbounty.jp/en/) |
+| BugBounty.ro | [https://www.bugbounty.ro](https://www.bugbounty.ro) | Romania | | Private + Public | Yes | | |
 | BugBounty.ru | [https://bugbounty.ru](https://bugbounty.ru) | Russia | | Private + Public | | | |
 | bugbounty.sa | [https://bugbounty.sa](https://bugbounty.sa) | Saudi Arabia | [@BugBountySA](https://x.com/BugBountySA) | Private | Yes | [https://bugbounty.sa/leaderboard](https://bugbounty.sa/leaderboard) | |
 | Bugcrowd | [https://bugcrowd.com](https://bugcrowd.com) | USA | [@bugcrowd](https://x.com/bugcrowd) | Private + Public | Yes | [https://bugcrowd.com/leaderboard](https://bugcrowd.com/leaderboard) | [https://bugcrowd.com/programs](https://bugcrowd.com/programs) |
 | Buglab | [https://buglab.io](https://buglab.io) | Singapore | | Private + Public | Yes | | |
+| Bugloud | [https://bugloud.com](https://bugloud.com) | United Arab Emirates | | Private + Public | Yes | [https://bugloud.com/leaderboard](https://bugloud.com/leaderboard) | [https://bugloud.com/programs](https://bugloud.com/programs) |
 | BugRap | [https://bugrap.io](https://bugrap.io) | | [@BugRap_Team](https://x.com/BugRap_Team) | Public | Yes | [https://bugrap.io/whiteHats](https://bugrap.io/whiteHats) | [https://bugrap.io/bounties](https://bugrap.io/bounties) |
-| bugsbounty.io | [https://bugsbounty.io](https://bugsbounty.io) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
+| bugsbounty.io | [https://bugsbounty.com](https://bugsbounty.com) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | | |
 | Cantina | [https://cantina.xyz](https://cantina.xyz) | USA | [@Cantinaxyz](https://x.com/Cantinaxyz) | Private + Public | Yes | | [https://cantina.xyz/competitions](https://cantina.xyz/competitions) |
 | Capture The Bug | [https://capturethebug.xyz](https://capturethebug.xyz) | New Zealand | [@Capturethebugs](https://x.com/Capturethebugs) | Private | | | |
 | CertiK Bug Bounty | [https://certik.com](https://certik.com) | USA | [@CertiK](https://x.com/CertiK) | Private + Public | Yes | [https://skynet.certik.com/leaderboards/bug-bounty](https://skynet.certik.com/leaderboards/bug-bounty) | |
+| CERT-In RVDCP | [https://www.cert-in.org.in/RVDCP.jsp](https://www.cert-in.org.in/RVDCP.jsp) | India | [@IndianCERT](https://x.com/IndianCERT) | Public | Yes | | |
+| Certora Contests | [https://www.certora.com/contests](https://www.certora.com/contests) | Global | [@certora](https://x.com/certora) | Public | Yes | [https://www.certora.com/leaderboard](https://www.certora.com/leaderboard) | [https://www.certora.com/contests](https://www.certora.com/contests) |
+| CERT Polska CVD | [https://cert.pl/en/cvd/](https://cert.pl/en/cvd/) | Poland | [@CERT_Polska_en](https://x.com/CERT_Polska_en) | Public | No | | [https://cert.pl/en/cve/](https://cert.pl/en/cve/) |
 | CISA VDP Platform | [https://www.cisa.gov/vdp](https://www.cisa.gov/vdp) | USA | [@CISAgov](https://x.com/CISAgov) | Public | No | | |
-| Cobalt | [https://cobalt.io](https://cobalt.io) | USA | [@cobalt_io](https://x.com/cobalt_io) | Private | Yes | [https://app.cobalt.io/pentesters](https://app.cobalt.io/pentesters) | |
+| Cobalt | [https://cobalt.io](https://cobalt.io) | USA | [@cobalt_io](https://x.com/cobalt_io) | Private | Yes | [https://app.us.cobalt.io/pentesters](https://app.us.cobalt.io/pentesters) | |
 | Code4rena | [https://code4rena.com](https://code4rena.com) | | [@code4rena](https://x.com/code4rena) | Public | Yes | [https://code4rena.com/leaderboard](https://code4rena.com/leaderboard) | [https://code4rena.com/contests](https://code4rena.com/contests) |
 | CodeHawks | [https://codehawks.cyfrin.io](https://codehawks.cyfrin.io) | USA | [@CodeHawks](https://x.com/CodeHawks) | Private + Public | Yes | [https://codehawks.cyfrin.io/leaderboard](https://codehawks.cyfrin.io/leaderboard) | |
 | Com Olho | [https://comolho.com](https://comolho.com) | India | [@com_olho](https://x.com/com_olho) | Private + Public | Yes | [https://cyber.comolho.com/researcher-community/](https://cyber.comolho.com/researcher-community/) | [https://cyber.comolho.com/programs/bug-bounty/](https://cyber.comolho.com/programs/bug-bounty/) |
 | Compass Security | [https://compass-security.com](https://compass-security.com) | Switzerland | [@compasssecurity](https://x.com/compasssecurity) | Private + Public | Yes | | [https://bugbounty.compass-security.com/](https://bugbounty.compass-security.com/) |
 | Crowdswarm | [https://crowdswarm.io](https://crowdswarm.io) | United Arab Emirates | [@Crowdswarm1](https://x.com/Crowdswarm1) | Private + Public | Yes | | |
 | Cyber Army Indonesia | [https://cyberarmy.id](https://cyberarmy.id) | Indonesia | [@cyberarmyid](https://x.com/cyberarmyid) | Private + Public | Yes | [https://cyberarmy.id/leaderboard](https://cyberarmy.id/leaderboard) | [https://cyberarmy.id/programs](https://cyberarmy.id/programs) |
+| Cyber3ra | [https://cyber3ra.com](https://cyber3ra.com) | India | | Private + Public | | | [https://app.cyber3ra.com/](https://app.cyber3ra.com/) |
 | CyberTalents | [https://cybertalents.com](https://cybertalents.com) | Middle East | [@CyberTalents](https://x.com/CyberTalents) | Public | Yes | | |
 | Cyscope | [https://cyscope.io](https://cyscope.io) | Switzerland & Latam | [@cy_scope](https://x.com/cy_scope) | Private + Public | Yes | | |
 | Detectify | [https://detectify.com](https://detectify.com) | Sweden | [@detectify](https://x.com/detectify) | Crowdsource (ASM) | Yes | | |
@@ -45,6 +52,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Findbug | [https://findbug.io](https://findbug.io) | Kosovo | [@Findbugks](https://x.com/Findbugks) | Private | Yes | | |
 | Gerobug | [https://gerobug.gerosecurity.com](https://gerobug.gerosecurity.com) | Indonesia | | Self-hosted | No | | |
 | GObugfree | [https://gobugfree.com](https://gobugfree.com) | Switzerland | [@gobugfree](https://x.com/gobugfree) | Private + Public | Yes | | [https://app.gobugfree.com/programs](https://app.gobugfree.com/programs) |
+| Gray Swan Arena | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) | USA | [@GraySwanAI](https://x.com/GraySwanAI) | Public | Yes | [https://app.grayswan.ai/arena/leaderboard/global](https://app.grayswan.ai/arena/leaderboard/global) | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) |
 | HackenProof | [https://hackenproof.com](https://hackenproof.com) | Estonia | [@HackenProof](https://x.com/HackenProof) | Private + Public | Yes | [https://hackenproof.com/leaderboard](https://hackenproof.com/leaderboard) | [https://hackenproof.com/programs](https://hackenproof.com/programs) |
 | HackerOne | [https://hackerone.com](https://hackerone.com) | USA | [@hacker0x01](https://x.com/hacker0x01) | Private + Public | Yes | [https://hackerone.com/leaderboard](https://hackerone.com/leaderboard) | [https://hackerone.com/directory/programs](https://hackerone.com/directory/programs) |
 | Hackrate | [https://hckrt.com](https://hckrt.com) | Hungary | [@hackrate](https://x.com/hackrate) | Private + Public | Yes | [https://hckrt.com/Profiles/Leaderboard](https://hckrt.com/Profiles/Leaderboard) | [https://hckrt.com/Catalog](https://hckrt.com/Catalog) |
@@ -52,12 +60,14 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Hashlock | [https://hashlock.com](https://hashlock.com) | Australia | [@HashLockAudit](https://x.com/HashLockAudit) | Private + Public | No | | [https://hashlock.com/bug-bounty](https://hashlock.com/bug-bounty) |
 | Hats | [https://hats.finance](https://hats.finance) | | [@HatsFinance](https://x.com/HatsFinance) | Public | Yes | | |
 | HuntBug | [https://huntbug.com](https://huntbug.com) | USA | [@officialhuntbug](https://x.com/officialhuntbug) | Private + Public | Yes | [https://huntbug.com/leaderboard](https://huntbug.com/leaderboard) | |
-| Huntr | [https://huntr.dev](https://huntr.dev) | UK | [@huntrdev](https://x.com/huntrdev) | Private + Public | Yes | [https://huntr.dev/leaderboard](https://huntr.dev/leaderboard) | [https://huntr.dev/bounties/hacktivity](https://huntr.dev/bounties/hacktivity) |
+| Huntr | [https://huntr.com](https://huntr.com) | UK | [@huntrdev](https://x.com/huntrdev) | Private + Public | Yes | [https://huntr.com/leaderboard](https://huntr.com/leaderboard) | [https://huntr.com/bounties/hacktivity](https://huntr.com/bounties/hacktivity) |
 | Immunefi | [https://immunefi.com](https://immunefi.com) | | [@immunefi](https://x.com/immunefi) | Public | Yes | [https://immunefi.com/leaderboard/](https://immunefi.com/leaderboard/) | [https://immunefi.com/explore/](https://immunefi.com/explore/) |
 | Inspectiv | [https://inspectiv.com](https://inspectiv.com) | USA | [@inspectiv](https://x.com/inspectiv) | Private + Public | Yes | | |
 | Intigriti | [https://intigriti.com](https://intigriti.com) | Belgium | [@intigriti](https://x.com/intigriti) | Private + Public | Yes | [https://intigriti.com/leaderboard](https://intigriti.com/leaderboard) | [https://intigriti.com/programs](https://intigriti.com/programs) |
 | IssueHunt | [https://issuehunt.io](https://issuehunt.io) | Japan | [@IssueHunt](https://x.com/IssueHunt) | Private + Public | Yes | | [https://issuehunt.io/programs](https://issuehunt.io/programs) |
+| Japan Vulnerability Notes (JVN) | [https://jvn.jp/en/](https://jvn.jp/en/) | Japan | [@jpcert_en](https://x.com/jpcert_en) | Public | No | | [https://jvn.jp/en/nav/](https://jvn.jp/en/nav/) |
 | LRQA Nettitude | [https://bugbounty.nettitude.com](https://bugbounty.nettitude.com) | UK | [@NettitudeGroup](https://x.com/NettitudeGroup) | Private | | | |
+| NCIIPC RVDP | [https://nciipc.gov.in/RVDP.html](https://nciipc.gov.in/RVDP.html) | India | [@NCIIPC](https://x.com/NCIIPC) | Public | No | | |
 | Nordic Defender | [https://nordicdefender.com](https://nordicdefender.com) | Sweden | [@nordicdefender](https://x.com/nordicdefender) | Private | | | |
 | ødin | [https://0din.ai](https://0din.ai) | USA | [@0dinai](https://x.com/0dinai) | | | | [https://0din.ai/scope](https://0din.ai/scope) |
 | Open Bug Bounty | [https://openbugbounty.org](https://openbugbounty.org) | Bangladesh | [@openbugbounty](https://x.com/openbugbounty) | Public | Yes | | [https://openbugbounty.org/bugbounty-list/](https://openbugbounty.org/bugbounty-list/) |
@@ -83,6 +93,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Testbirds | [https://testbirds.com](https://testbirds.com) | Germany | [@Testbirds](https://x.com/Testbirds) | QA + Bug Bounty | No | | |
 | thebugbounty | [https://thebugbounty.com](https://thebugbounty.com) | Malaysia | [@thebugbounty](https://x.com/thebugbounty) | Private | Yes | | |
 | Topcoder | [https://topcoder.com](https://topcoder.com) | USA | [@topcoder](https://x.com/topcoder) | Dev + Bug Bounty | Yes | | [https://www.topcoder.com/challenges](https://www.topcoder.com/challenges) |
+| TrustLine | [https://www.trustline.sa](https://www.trustline.sa) | Saudi Arabia | [@trustlineSec](https://x.com/trustlineSec) | Private + Public | | | |
 | UK NCSC VDP | [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk) | UK | [@NCSC](https://x.com/NCSC) | Public | No | | |
 | Vulbox | [https://vulbox.com](https://vulbox.com) | China | | Private + Public | Yes | [https://vulbox.com/top/season](https://vulbox.com/top/season) | [https://vulbox.com/projects/list](https://vulbox.com/projects/list) |
 | Vulnerability Lab | [https://vulnerability-lab.com](https://vulnerability-lab.com) | Germany | | Private + Public | Yes | [https://vulnerability-lab.com/hacktivity.php](https://vulnerability-lab.com/hacktivity.php) | |
