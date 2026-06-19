@@ -53,6 +53,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Federacy | [https://federacy.com](https://federacy.com) | USA | [@_federacy](https://x.com/_federacy) | Private + Public | Yes | | |
 | Find The Gap | [https://findthegap.co.kr/en](https://findthegap.co.kr/en) | South Korea | | Private + Public | No | | |
 | Findbug | [https://findbug.io](https://findbug.io) | Kosovo | [@Findbugks](https://x.com/Findbugks) | Private | Yes | | |
+| Genbounty | [https://genbounty.com/](https://genbounty.com/) | UK | [@Genbounty](https://x.com/genbounty) | Private | Yes | [https://genbounty.com/teams](https://genbounty.com/teams) | |
 | Gerobug | [https://gerobug.gerosecurity.com](https://gerobug.gerosecurity.com) | Indonesia | | Self-hosted | No | | |
 | GObugfree | [https://gobugfree.com](https://gobugfree.com) | Switzerland | [@gobugfree](https://x.com/gobugfree) | Private + Public | Yes | | [https://app.gobugfree.com/programs](https://app.gobugfree.com/programs) |
 | Gray Swan Arena | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) | USA | [@GraySwanAI](https://x.com/GraySwanAI) | Public | Yes | [https://app.grayswan.ai/arena/leaderboard/global](https://app.grayswan.ai/arena/leaderboard/global) | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) |
