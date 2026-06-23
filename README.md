@@ -105,6 +105,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | thebugbounty | [https://thebugbounty.com](https://thebugbounty.com) | Malaysia | [@thebugbounty](https://x.com/thebugbounty) | Private | Yes | | |
 | Topcoder | [https://topcoder.com](https://topcoder.com) | USA | [@topcoder](https://x.com/topcoder) | Dev + Bug Bounty | Yes | | [https://www.topcoder.com/challenges](https://www.topcoder.com/challenges) |
 | TrustLine | [https://www.trustline.sa](https://www.trustline.sa) | Saudi Arabia | [@trustlineSec](https://x.com/trustlineSec) | Private + Public | | | |
+| TumarOne | [https://tumar.one/](https://tumar.one/) | Kazakhstan | | Public + Private | Yes | [https://tumar.one/leaderboard](https://tumar.one/leaderboard) | [https://tumar.one/#for-bug-hunters](https://tumar.one/#for-bug-hunters) |
 | UK NCSC VDP | [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk) | UK | [@NCSC](https://x.com/NCSC) | Public | No | | |
 | Vulbox | [https://vulbox.com](https://vulbox.com) | China | | Private + Public | Yes | [https://vulbox.com/top/season](https://vulbox.com/top/season) | [https://vulbox.com/projects/list](https://vulbox.com/projects/list) |
 | Vulnerability Lab | [https://vulnerability-lab.com](https://vulnerability-lab.com) | Germany | | Private + Public | Yes | [https://vulnerability-lab.com/hacktivity.php](https://vulnerability-lab.com/hacktivity.php) | |
