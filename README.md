@@ -28,6 +28,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugloud | [https://bugloud.com](https://bugloud.com) | United Arab Emirates | | Private + Public | Yes | [https://bugloud.com/leaderboard](https://bugloud.com/leaderboard) | [https://bugloud.com/programs](https://bugloud.com/programs) |
 | BugRap | [https://bugrap.io](https://bugrap.io) | | [@BugRap_Team](https://x.com/BugRap_Team) | Public | Yes | [https://bugrap.io/whiteHats](https://bugrap.io/whiteHats) | [https://bugrap.io/bounties](https://bugrap.io/bounties) |
 | bugsbounty.io | [https://bugsbounty.com](https://bugsbounty.com) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
+| BugRakshak | https://www.bugrakshak.com/ | India | | Private + Public |	Yes | https://www.bugrakshak.com/platform/leaderboard | |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | [https://www.butian.net/Rank/whitehat](https://www.butian.net/Rank/whitehat) | [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2) |
 | Cantina | [https://cantina.xyz](https://cantina.xyz) | USA | [@Cantinaxyz](https://x.com/Cantinaxyz) | Private + Public | Yes | [https://cantina.xyz/leaderboard](https://cantina.xyz/leaderboard) | [https://cantina.xyz/competitions](https://cantina.xyz/competitions) |
