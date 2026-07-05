@@ -1,0 +1,38 @@
+name: Validate platform table
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate-table:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check README table shape
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import sys
+
+          expected_columns = 8
+          bad = []
+          rows = 0
+
+          for line_number, line in enumerate(Path('README.md').read_text(encoding='utf-8').splitlines(), 1):
+              if not line.startswith('|'):
+                  continue
+              columns = [cell.strip() for cell in line.strip().strip('|').split('|')]
+              if columns and set(columns[0]) == {'-'}:
+                  continue
+              rows += 1
+              if len(columns) != expected_columns:
+                  bad.append((line_number, len(columns), line))
+
+          if bad:
+              for line_number, count, line in bad:
+                  print(f'Line {line_number}: expected {expected_columns} columns, found {count}: {line}')
+              sys.exit(1)
+
+          print(f'Validated {rows} table rows with {expected_columns} columns')
+          PY
