@@ -29,6 +29,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | 360 SRC | [https://src.360.net](https://src.360.net) | China | | Public + Private | | | |
 | Australian Government VDP | [https://www.homeaffairs.gov.au](https://www.homeaffairs.gov.au) | Australia | | Public | No | | |
 | AuditOne | [https://auditone.io](https://auditone.io) | Europe | [@AuditOne_io](https://x.com/AuditOne_io) | Private + Public | Yes | [https://www.auditone.io/bounty-activity](https://www.auditone.io/bounty-activity) | [https://www.auditone.io/bug-bounty](https://www.auditone.io/bug-bounty) |
+| BBHunt Japan | [https://bbhunt.jp](https://bbhunt.jp) | Japan | [@bbhuntjapan](https://x.com/bbhuntjapan) | Private + Public | | | |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | [https://bugbounty.bi.zone/top-hackers](https://bugbounty.bi.zone/top-hackers) | [https://bugbounty.bi.zone/companies](https://bugbounty.bi.zone/companies) |
 | BountyTeam | [https://www.bountyteam.com](https://www.bountyteam.com) | China | | Private + Public | Yes | [https://www.bountyteam.com/leader-board](https://www.bountyteam.com/leader-board) | [https://www.bountyteam.com/bug-bounty-list](https://www.bountyteam.com/bug-bounty-list) |
 | Bug Bounty Switzerland | [https://bugbounty.ch](https://bugbounty.ch) | Switzerland | [@bugbounty_ch](https://x.com/bugbounty_ch) | Private + Public | Yes | | [https://www.bugbounty.ch/en/programs/](https://www.bugbounty.ch/en/programs/) |
