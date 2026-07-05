@@ -6,6 +6,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Platform Name | URL | Region | Twitter/X | Program Types | Has Leaderboard | Leaderboard URL | Public Programs URL |
 |---------------|-----|--------|-----------|---------------|-----------------|-----------------|---------------------|
+| 360 SRC | [https://src.360.net](https://src.360.net) | China | | Public + Private | | | |
 | Australian Government VDP | [https://www.homeaffairs.gov.au](https://www.homeaffairs.gov.au) | Australia | | Public | No | | |
 | AuditOne | [https://auditone.io](https://auditone.io) | Europe | [@AuditOne_io](https://x.com/AuditOne_io) | Private + Public | Yes | [https://www.auditone.io/bounty-activity](https://www.auditone.io/bounty-activity) | [https://www.auditone.io/bug-bounty](https://www.auditone.io/bug-bounty) |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | [https://bugbounty.bi.zone/top-hackers](https://bugbounty.bi.zone/top-hackers) | [https://bugbounty.bi.zone/companies](https://bugbounty.bi.zone/companies) |
@@ -56,6 +57,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Gerobug | [https://gerobug.gerosecurity.com](https://gerobug.gerosecurity.com) | Indonesia | | Self-hosted | No | | [https://gerobug.gerosecurity.com/programs/](https://gerobug.gerosecurity.com/programs/) |
 | GObugfree | [https://gobugfree.com](https://gobugfree.com) | Switzerland | [@gobugfree](https://x.com/gobugfree) | Private + Public | Yes | | [https://gobugfree.com/programs](https://gobugfree.com/programs) |
 | Gray Swan Arena | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) | USA | [@GraySwanAI](https://x.com/GraySwanAI) | Public | Yes | [https://app.grayswan.ai/arena/leaderboard/global](https://app.grayswan.ai/arena/leaderboard/global) | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) |
+| HackAPrompt | [https://www.hackaprompt.com](https://www.hackaprompt.com) | USA | | Public | Yes | [https://www.hackaprompt.com/leaderboard](https://www.hackaprompt.com/leaderboard) | |
 | HackenProof | [https://hackenproof.com](https://hackenproof.com) | Estonia | [@HackenProof](https://x.com/HackenProof) | Private + Public | Yes | [https://hackenproof.com/leaderboard](https://hackenproof.com/leaderboard) | [https://hackenproof.com/programs](https://hackenproof.com/programs) |
 | HackerOne | [https://hackerone.com](https://hackerone.com) | USA | [@hacker0x01](https://x.com/hacker0x01) | Private + Public | Yes | [https://hackerone.com/leaderboard](https://hackerone.com/leaderboard) | [https://hackerone.com/directory/programs](https://hackerone.com/directory/programs) |
 | Hackr.fi | [https://www.hackr.fi](https://www.hackr.fi) | Finland | [@hackrfi](https://x.com/hackrfi) | Private + Public | No | | [https://www.hackr.fi/en/programs.html](https://www.hackr.fi/en/programs.html) |
