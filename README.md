@@ -14,7 +14,7 @@
 <a href="https://github.com/disclose/bug-bounty-platforms/edit/main/README.md"><img src="https://img.shields.io/badge/PRs-welcome-5B3AB6" alt="PRs welcome"></a>
 </p>
 
-*Part of [the disclose.io Project](https://disclose.io) · rendered at [disclose.io/platforms](https://disclose.io/platforms) · [directory](https://directory.disclose.io) · [dioterms](https://github.com/disclose/dioterms)*
+*Part of **[the disclose.io Project](https://disclose.io)** — the open, vendor-neutral infrastructure for vulnerability disclosure. [Browse the ecosystem →](https://github.com/disclose)*
 
 </div>
 
