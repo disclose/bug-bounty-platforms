@@ -26,9 +26,9 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bugcrowd | [https://bugcrowd.com](https://bugcrowd.com) | USA | [@bugcrowd](https://x.com/bugcrowd) | Private + Public | Yes | [https://bugcrowd.com/leaderboard](https://bugcrowd.com/leaderboard) | [https://bugcrowd.com/programs](https://bugcrowd.com/programs) |
 | Buglab | [https://buglab.io](https://buglab.io) | Singapore | [@joinbuglab](https://x.com/joinbuglab) | Private + Public | Yes | | |
 | Bugloud | [https://bugloud.com](https://bugloud.com) | United Arab Emirates | | Private + Public | Yes | [https://bugloud.com/leaderboard](https://bugloud.com/leaderboard) | [https://bugloud.com/programs](https://bugloud.com/programs) |
+| BugRakshak | [https://www.bugrakshak.com](https://www.bugrakshak.com) | India | | Private + Public | Yes | [https://www.bugrakshak.com/platform/leaderboard](https://www.bugrakshak.com/platform/leaderboard) | |
 | BugRap | [https://bugrap.io](https://bugrap.io) | | [@BugRap_Team](https://x.com/BugRap_Team) | Public | Yes | [https://bugrap.io/whiteHats](https://bugrap.io/whiteHats) | [https://bugrap.io/bounties](https://bugrap.io/bounties) |
 | bugsbounty.io | [https://bugsbounty.com](https://bugsbounty.com) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
-| BugRakshak | https://www.bugrakshak.com/ | India | | Private + Public |	Yes | https://www.bugrakshak.com/platform/leaderboard | |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | [https://www.butian.net/Rank/whitehat](https://www.butian.net/Rank/whitehat) | [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2) |
 | Cantina | [https://cantina.xyz](https://cantina.xyz) | USA | [@Cantinaxyz](https://x.com/Cantinaxyz) | Private + Public | Yes | [https://cantina.xyz/leaderboard](https://cantina.xyz/leaderboard) | [https://cantina.xyz/competitions](https://cantina.xyz/competitions) |
@@ -106,7 +106,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | thebugbounty | [https://thebugbounty.com](https://thebugbounty.com) | Malaysia | [@thebugbounty](https://x.com/thebugbounty) | Private | Yes | | |
 | Topcoder | [https://topcoder.com](https://topcoder.com) | USA | [@topcoder](https://x.com/topcoder) | Dev + Bug Bounty | Yes | [https://www.topcoder.com/community/statistics](https://www.topcoder.com/community/statistics) | [https://www.topcoder.com/challenges](https://www.topcoder.com/challenges) |
 | TrustLine | [https://www.trustline.sa](https://www.trustline.sa) | Saudi Arabia | [@trustlineSec](https://x.com/trustlineSec) | Private + Public | | | |
-| TumarOne | [https://tumar.one/](https://tumar.one/) | Kazakhstan | | Public + Private | Yes | [https://tumar.one/leaderboard](https://tumar.one/leaderboard) | [https://tumar.one/#for-bug-hunters](https://tumar.one/#for-bug-hunters) |
+| TumarOne | [https://tumar.one](https://tumar.one) | Kazakhstan | | Private + Public | Yes | [https://tumar.one/leaderboard](https://tumar.one/leaderboard) | [https://tumar.one/#for-bug-hunters](https://tumar.one/#for-bug-hunters) |
 | UK NCSC VDP | [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk) | UK | [@NCSC](https://x.com/NCSC) | Public | No | | |
 | Vulbox | [https://vulbox.com](https://vulbox.com) | China | | Private + Public | Yes | [https://vulbox.com/top/season](https://vulbox.com/top/season) | [https://vulbox.com/projects/list](https://vulbox.com/projects/list) |
 | Vulnerability Lab | [https://vulnerability-lab.com](https://vulnerability-lab.com) | Germany | | Private + Public | Yes | [https://vulnerability-lab.com/hacktivity.php](https://vulnerability-lab.com/hacktivity.php) | [https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php](https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php) |
