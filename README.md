@@ -1,4 +1,24 @@
-# Open-Sourced Collection of Bug Bounty Platforms
+<div align="center">
+
+<a href="https://disclose.io/platforms/"><img src="docs/marquee.png" alt="bug-bounty-platforms — every bug bounty & VDP platform, in one open list · disclose.io" width="820"></a>
+
+# bug-bounty-platforms
+
+### A community-powered, open catalog of every known bug bounty & vulnerability-disclosure platform on the Internet.
+
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/bug-bounty-platforms?color=5B3AB6&label=license" alt="CC0 1.0"></a>
+<a href="https://disclose.io/platforms/"><img src="https://img.shields.io/badge/browse-disclose.io%2Fplatforms-5B3AB6" alt="Browse at disclose.io/platforms"></a>
+<img src="https://img.shields.io/badge/tracked-109%2B%20platforms-5B3AB6" alt="109+ platforms tracked">
+<a href="https://github.com/disclose/bug-bounty-platforms/graphs/contributors"><img src="https://img.shields.io/github/contributors/disclose/bug-bounty-platforms?color=5B3AB6" alt="Contributors"></a>
+<a href="https://github.com/disclose/bug-bounty-platforms/edit/main/README.md"><img src="https://img.shields.io/badge/PRs-welcome-5B3AB6" alt="PRs welcome"></a>
+</p>
+
+*Part of [the disclose.io Project](https://disclose.io) · rendered at [disclose.io/platforms](https://disclose.io/platforms) · [directory](https://directory.disclose.io) · [dioterms](https://github.com/disclose/dioterms)*
+
+</div>
+
+---
 
 An ongoing community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 
