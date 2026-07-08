@@ -50,14 +50,23 @@ BROWSER_UA = (
 # Resources that are genuinely gone — DEAD even though the host answered.
 DEAD_STATUS = {404, 410}
 
-# curl exit codes we can name in the report.
-CURL_ERRORS = {
+# curl exit codes where the host demonstrably answered (bytes were already
+# flowing) — a transfer artifact, not a dead site, so classify ALIVE. Datacenter
+# IPs like GitHub's runners hit these on bot-challenge / streaming responses that
+# a browser handles fine.
+CURL_RESPONDED = {
+    18: "partial transfer",
+    23: "body-write aborted",
+    56: "connection reset mid-response",
+}
+
+# curl exit codes where no usable response was obtained — DEAD.
+CURL_DEAD = {
     6: "DNS resolution failed",
     7: "connection refused",
     28: "timed out",
     35: "TLS handshake failed",
     51: "TLS certificate mismatch",
-    56: "connection reset",
     60: "TLS certificate error",
 }
 
@@ -138,7 +147,10 @@ def check_once(url: str, timeout: int) -> tuple[str, str]:
             return ("ALIVE", f"HTTP {code} (gated)")
         return ("ALIVE", f"HTTP {code}")
 
-    return ("DEAD", CURL_ERRORS.get(proc.returncode, f"curl error {proc.returncode}"))
+    rc = proc.returncode
+    if rc in CURL_RESPONDED:
+        return ("ALIVE", f"reachable ({CURL_RESPONDED[rc]})")
+    return ("DEAD", CURL_DEAD.get(rc, f"curl error {rc}"))
 
 
 def is_transient(detail: str) -> bool:
