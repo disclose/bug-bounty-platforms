@@ -71,8 +71,10 @@ jobs:
 
           # One canonical issue: reopen it rather than minting a new number each
           # time a platform flaps, so history stays threaded and watchers aren't spammed.
+          # `.[0] // empty` so an empty list yields "" — without it jq stringifies
+          # a null .[0] to the literal "null null", which then breaks `gh issue edit`.
           latest="$(gh issue list --label link-liveness --state all --limit 1 \
-            --json number,state --jq '.[0] | "\(.number) \(.state)"' 2>/dev/null || true)"
+            --json number,state --jq '.[0] // empty | "\(.number) \(.state)"' 2>/dev/null || true)"
           num="${latest%% *}"
           state="${latest##* }"
 
