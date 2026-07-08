@@ -47,6 +47,15 @@ jobs:
           DEAD_COUNT: ${{ steps.check.outputs.dead_count }}
         run: |
           set -euo pipefail
+
+          # On a fork (or any repo with the Issues tab off) issue operations fail.
+          # That's a benign, known condition — warn and stop cleanly instead of
+          # reddening the run; the report is still available as a run artifact.
+          if [ "$(gh repo view "$GITHUB_REPOSITORY" --json hasIssuesEnabled --jq '.hasIssuesEnabled')" != "true" ]; then
+            echo "::warning::Issues are disabled on $GITHUB_REPOSITORY; skipping tracking-issue sync (report is in the run artifacts)."
+            exit 0
+          fi
+
           gh label create link-liveness \
             --color 5B3AB6 \
             --description "Automated daily link-liveness report" 2>/dev/null || true
