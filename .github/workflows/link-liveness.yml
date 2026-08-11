@@ -1,0 +1,104 @@
+name: Link liveness
+
+# Daily check that every platform URL in the README still resolves.
+# Findings are collected into a single auto-updating tracking issue rather than
+# a red build, so a dead link is actionable without training maintainers to
+# ignore a daily failure. Bot-gated hosts (401/403/429) count as alive.
+
+on:
+  schedule:
+    # 13:00 UTC daily. GitHub may delay scheduled runs under load.
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: link-liveness
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run liveness check
+        id: check
+        # --ci: exit 0 even with dead links (reported via GITHUB_OUTPUT);
+        # a genuine internal error still exits 2 and fails the run loudly.
+        run: python3 scripts/check-liveness.py --ci --report liveness-report.md
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: liveness-report
+          path: liveness-report.md
+
+      - name: Sync tracking issue
+        # Only when the check itself succeeded — an internal checker error (exit 2)
+        # must not be misread as "all healthy" and wrongly close the tracking issue.
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DEAD_COUNT: ${{ steps.check.outputs.dead_count }}
+        run: |
+          set -euo pipefail
+
+          # On a fork (or any repo with the Issues tab off) issue operations fail.
+          # That's a benign, known condition — warn and stop cleanly instead of
+          # reddening the run; the report is still available as a run artifact.
+          if [ "$(gh repo view "$GITHUB_REPOSITORY" --json hasIssuesEnabled --jq '.hasIssuesEnabled')" != "true" ]; then
+            echo "::warning::Issues are disabled on $GITHUB_REPOSITORY; skipping tracking-issue sync (report is in the run artifacts)."
+            exit 0
+          fi
+
+          gh label create link-liveness \
+            --color 5B3AB6 \
+            --description "Automated daily link-liveness report" 2>/dev/null || true
+
+          title="Dead links detected by the daily liveness check"
+
+          # Warn (don't fail) if the singleton invariant is broken by a manual issue.
+          open_count="$(gh issue list --label link-liveness --state open \
+            --json number --jq 'length' 2>/dev/null || echo 0)"
+          if [ "${open_count:-0}" -gt 1 ]; then
+            echo "::warning::$open_count open issues labelled link-liveness (expected 1); acting on the most recent."
+          fi
+
+          # One canonical issue: reopen it rather than minting a new number each
+          # time a platform flaps, so history stays threaded and watchers aren't spammed.
+          # `.[0] // empty` so an empty list yields "" — without it jq stringifies
+          # a null .[0] to the literal "null null", which then breaks `gh issue edit`.
+          latest="$(gh issue list --label link-liveness --state all --limit 1 \
+            --json number,state --jq '.[0] // empty | "\(.number) \(.state)"' 2>/dev/null || true)"
+          num="${latest%% *}"
+          state="${latest##* }"
+
+          if [ "${DEAD_COUNT:-0}" -gt 0 ]; then
+            if [ -n "$num" ]; then
+              gh issue edit "$num" --body-file liveness-report.md
+              if [ "$state" = "CLOSED" ]; then
+                gh issue reopen "$num"
+                echo "Reopened issue #$num ($DEAD_COUNT dead)."
+              else
+                echo "Updated open issue #$num ($DEAD_COUNT dead)."
+              fi
+            else
+              gh issue create --title "$title" \
+                --label link-liveness --body-file liveness-report.md
+              echo "Opened tracking issue ($DEAD_COUNT dead)."
+            fi
+          else
+            if [ -n "$num" ] && [ "$state" = "OPEN" ]; then
+              gh issue edit "$num" --body-file liveness-report.md
+              gh issue comment "$num" --body "All catalog links resolved as of $(date -u '+%Y-%m-%d %H:%M UTC'). Closing — this issue reopens automatically if a link breaks again."
+              gh issue close "$num"
+              echo "All healthy — closed issue #$num."
+            else
+              echo "All catalog links healthy. Nothing to report."
+            fi
+          fi
