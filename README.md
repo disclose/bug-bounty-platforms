@@ -127,6 +127,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Bugloud | [https://bugloud.com](https://bugloud.com) | United Arab Emirates | | Private + Public | Yes | [https://bugloud.com/leaderboard](https://bugloud.com/leaderboard) | [https://bugloud.com/programs](https://bugloud.com/programs) |
 | BugRakshak | [https://www.bugrakshak.com](https://www.bugrakshak.com) | India | | Private + Public | Yes | [https://www.bugrakshak.com/platform/leaderboard](https://www.bugrakshak.com/platform/leaderboard) | |
 | bugsbounty.io | [https://bugsbounty.com](https://bugsbounty.com) | England | [@bugsbounty_com](https://x.com/bugsbounty_com) | Private | | | |
+| BugStream | [https://bugstream.com.ua](https://bugstream.com.ua) | Ukraine | [@BugStream_platf](https://x.com/BugStream_platf) | Private + Public | Yes | [https://bugstream.com.ua/leaderboard](https://bugstream.com.ua/leaderboard) | [https://bugstream.com.ua/programs](https://bugstream.com.ua/programs) |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | [https://www.butian.net/Rank/whitehat](https://www.butian.net/Rank/whitehat) | [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2) |
 | Capture The Bug | [https://capturethebug.xyz](https://capturethebug.xyz) | New Zealand | [@Capturethebugs](https://x.com/Capturethebugs) | Private | | | |
