@@ -110,6 +110,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 |---------------|-----|--------|-----------|---------------|-----------------|-----------------|---------------------|
 | 360 SRC | [https://src.360.net](https://src.360.net) | China | | Public + Private | | | |
 | Abhieo | [https://www.abhieo.in/bug-bounty](https://www.abhieo.in/bug-bounty) | India | [@abhieo_IN](https://x.com/abhieo_IN) | Public | No | | |
+| Ably | [https://ably.com/disclosure](https://ably.com/disclosure) | United Kingdom | [ablyrealtime](https://x.com/ablyrealtime) | Public | No | | |
 | Atmail | [https://www.atmail.com/bug-bounty-terms/](https://www.atmail.com/bug-bounty-terms/) | Australia | [@atmail](https://x.com/atmail) | Public | No | | |
 | BBHunt Japan | [https://bbhunt.jp](https://bbhunt.jp) | Japan | [@bbhuntjapan](https://x.com/bbhuntjapan) | Private + Public | | | |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | [https://bugbounty.bi.zone/top-hackers](https://bugbounty.bi.zone/top-hackers) | [https://bugbounty.bi.zone/companies](https://bugbounty.bi.zone/companies) |
@@ -133,7 +134,9 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | [https://www.butian.net/Rank/whitehat](https://www.butian.net/Rank/whitehat) | [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2) |
 | Capture The Bug | [https://capturethebug.xyz](https://capturethebug.xyz) | New Zealand | [@Capturethebugs](https://x.com/Capturethebugs) | Private | | | |
+| CleanShot | [https://cleanshot.com/disclosure](https://cleanshot.com/disclosure) | Poland | [cleanshot](https://x.com/cleanshot) | Public | No | | |
 | Cobalt | [https://cobalt.io](https://cobalt.io) | USA | [@cobalt_io](https://x.com/cobalt_io) | Private | Yes | [https://app.us.cobalt.io/pentesters](https://app.us.cobalt.io/pentesters) | |
+| CodeRabbit | [https://www.coderabbit.ai/vulnerability-disclosure](https://www.coderabbit.ai/vulnerability-disclosure) | United States | [coderabbitai](https://x.com/coderabbitai) | Public | No | | |
 | Com Olho | [https://comolho.com](https://comolho.com) | India | [@com_olho](https://x.com/com_olho) | Private + Public | Yes | [https://cyber.comolho.com/researcher-community/](https://cyber.comolho.com/researcher-community/) | [https://cyber.comolho.com/programs/bug-bounty/](https://cyber.comolho.com/programs/bug-bounty/) |
 | Compass Security | [https://compass-security.com](https://compass-security.com) | Switzerland | [@compasssecurity](https://x.com/compasssecurity) | Private + Public | Yes | | [https://bugbounty.compass-security.com/](https://bugbounty.compass-security.com/) |
 | Crowdswarm | [https://crowdswarm.io](https://crowdswarm.io) | United Arab Emirates | [@Crowdswarm1](https://x.com/Crowdswarm1) | Private + Public | Yes | | |
@@ -161,6 +164,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Intigriti | [https://intigriti.com](https://intigriti.com) | Belgium | [@intigriti](https://x.com/intigriti) | Private + Public | Yes | [https://intigriti.com/leaderboard](https://intigriti.com/leaderboard) | [https://intigriti.com/programs](https://intigriti.com/programs) |
 | Kolahsefid | [https://www.kolahsefid.org](https://www.kolahsefid.org) | Iran | [@Kolaahsefid](https://x.com/Kolaahsefid) | Private + Public | No | | |
 | Nordic Defender | [https://nordicdefender.com](https://nordicdefender.com) | Sweden | [@nordicdefender](https://x.com/nordicdefender) | Private | | | |
+| Omnisend | [https://www.omnisend.com/bug-bounty/](https://www.omnisend.com/bug-bounty/) | Lithuania | [omnisend](https://x.com/omnisend) | Public | No | | |
 | PatchDay | [https://patchday.io](https://patchday.io) | South Korea | [@patchday_io](https://x.com/patchday_io) | Private + Public | Yes | | |
 | Ravro | [https://ravro.ir](https://ravro.ir) | Iran | [@Ravro_ir](https://x.com/Ravro_ir) | Private + Public | Yes | [https://ravro.ir/reports](https://ravro.ir/reports) | [https://ravro.ir/companies](https://ravro.ir/companies) |
 | RedStorm | [https://redstorm.io](https://redstorm.io) | Indonesia | [@redstorm_io](https://x.com/redstorm_io) | Private + Public | Yes | | [https://redstorm.io/program](https://redstorm.io/program) |
@@ -168,7 +172,9 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Safevuln | [https://safevuln.com](https://safevuln.com) | Vietnam | | Public | Yes | [https://safevuln.com/leaderboard](https://safevuln.com/leaderboard) | [https://safevuln.com/programs](https://safevuln.com/programs) |
 | Secuna | [https://secuna.io](https://secuna.io) | Philippines | [@SecunaSecurity](https://x.com/SecunaSecurity) | Private + Public | Yes | | [https://platform.secuna.io/programs](https://platform.secuna.io/programs) |
 | Secur0 | [https://secur0.com](https://secur0.com) | Europe & Latam | [@Secur00](https://x.com/Secur00) | Private + Public | Yes | [https://app.secur0.com/leaderboards](https://app.secur0.com/leaderboards) | [https://app.secur0.com/programs](https://app.secur0.com/programs) |
+| Spendesk | [https://www.spendesk.com/.well-known/security.txt](https://www.spendesk.com/.well-known/security.txt) | France |  | Public | No | | |
 | Standoff 365 Bug Bounty | [https://bugbounty.standoff365.com](https://bugbounty.standoff365.com) | Russia | [@standoff365](https://x.com/standoff365) | Private + Public | Yes | [https://standoff365.com/en-US/ratings/](https://standoff365.com/en-US/ratings/) | [https://bugbounty.standoff365.com/en-US/](https://bugbounty.standoff365.com/en-US/) |
+| Superside | [https://www.superside.com/bug-bounty-program-policy](https://www.superside.com/bug-bounty-program-policy) | Norway | [SupersideHQ](https://x.com/SupersideHQ) | Public | No | | |
 | Swarmnetics | [https://swarmnetics.com](https://swarmnetics.com) | Singapore | [@swarmnetics](https://x.com/swarmnetics) | Private | Yes | | |
 | Synack | [https://synack.com](https://synack.com) | USA | [@synack](https://x.com/synack) | Private | Yes | | |
 | Teklabspace | [https://teklabspace.com](https://teklabspace.com) | Nigeria | [@teklabspace](https://x.com/teklabspace) | Public | Yes | | |
