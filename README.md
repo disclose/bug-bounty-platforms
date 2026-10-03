@@ -133,6 +133,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | BugStream | [https://bugstream.com.ua](https://bugstream.com.ua) | Ukraine | [@BugStream_platf](https://x.com/BugStream_platf) | Private + Public | Yes | [https://bugstream.com.ua/leaderboard](https://bugstream.com.ua/leaderboard) | [https://bugstream.com.ua/programs](https://bugstream.com.ua/programs) |
 | Bugv | [https://bugv.io](https://bugv.io) | Nepal | [@bugvsecurity](https://x.com/bugvsecurity) | Public | Yes | | |
 | Butian | [https://butian.net](https://butian.net) | China | | Private + Public | Yes | [https://www.butian.net/Rank/whitehat](https://www.butian.net/Rank/whitehat) | [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2) |
+| Cabify | [https://cabify.com/.well-known/bounty.txt](https://cabify.com/.well-known/bounty.txt) | Spain |  | Public | No | | |
 | Capture The Bug | [https://capturethebug.xyz](https://capturethebug.xyz) | New Zealand | [@Capturethebugs](https://x.com/Capturethebugs) | Private | | | |
 | CleanShot | [https://cleanshot.com/disclosure](https://cleanshot.com/disclosure) | Poland | [cleanshot](https://x.com/cleanshot) | Public | No | | |
 | Cobalt | [https://cobalt.io](https://cobalt.io) | USA | [@cobalt_io](https://x.com/cobalt_io) | Private | Yes | [https://app.us.cobalt.io/pentesters](https://app.us.cobalt.io/pentesters) | |
@@ -150,6 +151,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Federacy | [https://federacy.com](https://federacy.com) | USA | [@_federacy](https://x.com/_federacy) | Private + Public | Yes | | |
 | Find The Gap | [https://findthegap.co.kr/en](https://findthegap.co.kr/en) | South Korea | | Private + Public | No | | |
 | Findbug | [https://findbug.io](https://findbug.io) | Kosovo | [@Findbugks](https://x.com/Findbugks) | Private | Yes | | |
+| Fintual | [https://fintual.com/security-policy.txt](https://fintual.com/security-policy.txt) | Chile |  | Public | No | | |
 | Genbounty | [https://genbounty.com/](https://genbounty.com/) | UK | [@Genbounty](https://x.com/genbounty) | Private | Yes | [https://genbounty.com/teams](https://genbounty.com/teams) | |
 | Gerobug | [https://gerobug.gerosecurity.com](https://gerobug.gerosecurity.com) | Indonesia | | Self-hosted | No | | [https://gerobug.gerosecurity.com/programs/](https://gerobug.gerosecurity.com/programs/) |
 | GObugfree | [https://gobugfree.com](https://gobugfree.com) | Switzerland | [@gobugfree](https://x.com/gobugfree) | Private + Public | Yes | | [https://gobugfree.com/programs](https://gobugfree.com/programs) |
@@ -163,16 +165,21 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Inspectiv | [https://inspectiv.com](https://inspectiv.com) | USA | [@inspectiv](https://x.com/inspectiv) | Private + Public | Yes | | |
 | Intigriti | [https://intigriti.com](https://intigriti.com) | Belgium | [@intigriti](https://x.com/intigriti) | Private + Public | Yes | [https://intigriti.com/leaderboard](https://intigriti.com/leaderboard) | [https://intigriti.com/programs](https://intigriti.com/programs) |
 | Kolahsefid | [https://www.kolahsefid.org](https://www.kolahsefid.org) | Iran | [@Kolaahsefid](https://x.com/Kolaahsefid) | Private + Public | No | | |
+| Kontent.ai | [https://kontent.ai/vulnerability-disclosure-policy](https://kontent.ai/vulnerability-disclosure-policy) | Czech Republic | [Kontent_ai](https://x.com/Kontent_ai) | Public | No | | |
+| NN Group | [https://www.nn-group.com/ethical-hacking-responsible-disclosure](https://www.nn-group.com/ethical-hacking-responsible-disclosure) | Netherlands | [nn_group](https://x.com/nn_group) | Public | No | | |
 | Nordic Defender | [https://nordicdefender.com](https://nordicdefender.com) | Sweden | [@nordicdefender](https://x.com/nordicdefender) | Private | | | |
 | Omnisend | [https://www.omnisend.com/bug-bounty/](https://www.omnisend.com/bug-bounty/) | Lithuania | [omnisend](https://x.com/omnisend) | Public | No | | |
 | PatchDay | [https://patchday.io](https://patchday.io) | South Korea | [@patchday_io](https://x.com/patchday_io) | Private + Public | Yes | | |
+| PubNub | [https://www.pubnub.com/bug-bounty-policy/](https://www.pubnub.com/bug-bounty-policy/) | USA | [pubnub](https://x.com/pubnub) | Public | No | | |
 | Ravro | [https://ravro.ir](https://ravro.ir) | Iran | [@Ravro_ir](https://x.com/Ravro_ir) | Private + Public | Yes | [https://ravro.ir/reports](https://ravro.ir/reports) | [https://ravro.ir/companies](https://ravro.ir/companies) |
 | RedStorm | [https://redstorm.io](https://redstorm.io) | Indonesia | [@redstorm_io](https://x.com/redstorm_io) | Private + Public | Yes | | [https://redstorm.io/program](https://redstorm.io/program) |
 | safehats | [https://safehats.com](https://safehats.com) | India | | Private + Public | | | |
 | Safevuln | [https://safevuln.com](https://safevuln.com) | Vietnam | | Public | Yes | [https://safevuln.com/leaderboard](https://safevuln.com/leaderboard) | [https://safevuln.com/programs](https://safevuln.com/programs) |
 | Secuna | [https://secuna.io](https://secuna.io) | Philippines | [@SecunaSecurity](https://x.com/SecunaSecurity) | Private + Public | Yes | | [https://platform.secuna.io/programs](https://platform.secuna.io/programs) |
 | Secur0 | [https://secur0.com](https://secur0.com) | Europe & Latam | [@Secur00](https://x.com/Secur00) | Private + Public | Yes | [https://app.secur0.com/leaderboards](https://app.secur0.com/leaderboards) | [https://app.secur0.com/programs](https://app.secur0.com/programs) |
+| SpectroCoin | [https://spectrocoin.com/bug-bounty.html](https://spectrocoin.com/bug-bounty.html) | Lithuania | [SpectroCoin](https://x.com/SpectroCoin) | Public | No | | |
 | Spendesk | [https://www.spendesk.com/.well-known/security.txt](https://www.spendesk.com/.well-known/security.txt) | France |  | Public | No | | |
+| SquareX | [https://sqrx.com/bugbounty](https://sqrx.com/bugbounty) | Singapore | [getsquarex](https://x.com/getsquarex) | Public | No | | |
 | Standoff 365 Bug Bounty | [https://bugbounty.standoff365.com](https://bugbounty.standoff365.com) | Russia | [@standoff365](https://x.com/standoff365) | Private + Public | Yes | [https://standoff365.com/en-US/ratings/](https://standoff365.com/en-US/ratings/) | [https://bugbounty.standoff365.com/en-US/](https://bugbounty.standoff365.com/en-US/) |
 | Superside | [https://www.superside.com/bug-bounty-program-policy](https://www.superside.com/bug-bounty-program-policy) | Norway | [SupersideHQ](https://x.com/SupersideHQ) | Public | No | | |
 | Swarmnetics | [https://swarmnetics.com](https://swarmnetics.com) | Singapore | [@swarmnetics](https://x.com/swarmnetics) | Private | Yes | | |
@@ -186,6 +193,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Vulbox | [https://vulbox.com](https://vulbox.com) | China | | Private + Public | Yes | [https://vulbox.com/top/season](https://vulbox.com/top/season) | [https://vulbox.com/projects/list](https://vulbox.com/projects/list) |
 | Vulnerability Lab | [https://vulnerability-lab.com](https://vulnerability-lab.com) | Germany | | Private + Public | Yes | [https://vulnerability-lab.com/hacktivity.php](https://vulnerability-lab.com/hacktivity.php) | [https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php](https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php) |
 | Vulnscope | [https://vulnscope.com](https://vulnscope.com) | Chile | [@vulnscope](https://x.com/vulnscope) | Private + Public | Yes | [https://vulnscope.com/hacker-ranking](https://vulnscope.com/hacker-ranking) | [https://vulnscope.com/programas](https://vulnscope.com/programas) |
+| Wallbox | [https://wallbox.com/.well-known/security-policy.html](https://wallbox.com/.well-known/security-policy.html) | Spain |  | Public | No | | |
 | WhiteHub | [https://whitehub.net](https://whitehub.net) | Vietnam | [@CyStackSecurity](https://x.com/CyStackSecurity) | Private + Public | Yes | [https://whitehub.net/leaderboard](https://whitehub.net/leaderboard) | [https://whitehub.net/programs](https://whitehub.net/programs) |
 | YesWeHack | [https://yeswehack.com](https://yeswehack.com) | France | [@yeswehack](https://x.com/yeswehack) | Private + Public | Yes | [https://yeswehack.com/ranking](https://yeswehack.com/ranking) | [https://yeswehack.com/programs](https://yeswehack.com/programs) |
 | Yogosha | [https://yogosha.com](https://yogosha.com) | France | [@yogoshaofficial](https://x.com/yogoshaofficial) | Private | Yes | [https://yogosha.com/hackers/leaderboard/](https://yogosha.com/hackers/leaderboard/) | |
