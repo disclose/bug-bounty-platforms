@@ -109,6 +109,8 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Platform Name | URL | Region | Twitter/X | Program Types | Has Leaderboard | Leaderboard URL | Public Programs URL |
 |---------------|-----|--------|-----------|---------------|-----------------|-----------------|---------------------|
 | 360 SRC | [https://src.360.net](https://src.360.net) | China | | Public + Private | | | |
+| Abhieo | [https://www.abhieo.in/bug-bounty](https://www.abhieo.in/bug-bounty) | India | [@abhieo_IN](https://x.com/abhieo_IN) | Public | No | | |
+| Atmail | [https://www.atmail.com/bug-bounty-terms/](https://www.atmail.com/bug-bounty-terms/) | Australia | [@atmail](https://x.com/atmail) | Public | No | | |
 | BBHunt Japan | [https://bbhunt.jp](https://bbhunt.jp) | Japan | [@bbhuntjapan](https://x.com/bbhuntjapan) | Private + Public | | | |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | [https://bugbounty.bi.zone/top-hackers](https://bugbounty.bi.zone/top-hackers) | [https://bugbounty.bi.zone/companies](https://bugbounty.bi.zone/companies) |
 | BountyTeam | [https://www.bountyteam.com](https://www.bountyteam.com) | China | | Private + Public | Yes | [https://www.bountyteam.com/leader-board](https://www.bountyteam.com/leader-board) | [https://www.bountyteam.com/bug-bounty-list](https://www.bountyteam.com/bug-bounty-list) |
