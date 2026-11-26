@@ -89,7 +89,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Genbounty | [https://genbounty.com/](https://genbounty.com/) | UK | [@Genbounty](https://x.com/genbounty) | Private | Yes | [https://genbounty.com/teams](https://genbounty.com/teams) | |
 | Gray Swan Arena | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) | USA | [@GraySwanAI](https://x.com/GraySwanAI) | Public | Yes | [https://app.grayswan.ai/arena/leaderboard/global](https://app.grayswan.ai/arena/leaderboard/global) | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) |
 | HackAPrompt | [https://www.hackaprompt.com](https://www.hackaprompt.com) | USA | | Public | Yes | [https://www.hackaprompt.com/leaderboard](https://www.hackaprompt.com/leaderboard) | |
-| Huntr | [https://huntr.com](https://huntr.com) | UK | [@huntrdev](https://x.com/huntrdev) | Private + Public | Yes | | [https://huntr.com/bounties/hacktivity](https://huntr.com/bounties/hacktivity) |
+| Huntr | [https://huntr.com](https://huntr.com) | UK | [@huntr_ai](https://x.com/huntr_ai) | Private + Public | Yes | | [https://huntr.com/bounties/hacktivity](https://huntr.com/bounties/hacktivity) |
 | ødin | [https://0din.ai](https://0din.ai) | USA | [@0dinai](https://x.com/0dinai) | Public | Yes | [https://0din.ai/leaderboard](https://0din.ai/leaderboard) | [https://0din.ai/scope](https://0din.ai/scope) |
 
 ## Vulnerability acquisition and brokered disclosure
