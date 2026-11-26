@@ -9,7 +9,7 @@
 <p>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/bug-bounty-platforms?color=5B3AB6&label=license" alt="CC0 1.0"></a>
 <a href="https://disclose.io/platforms/"><img src="https://img.shields.io/badge/browse-disclose.io%2Fplatforms-5B3AB6" alt="Browse at disclose.io/platforms"></a>
-<img src="https://img.shields.io/badge/tracked-121%2B%20platforms-5B3AB6" alt="121+ platforms tracked">
+<img src="https://img.shields.io/badge/tracked-127%2B%20platforms-5B3AB6" alt="127+ platforms tracked">
 <a href="https://github.com/disclose/bug-bounty-platforms/graphs/contributors"><img src="https://img.shields.io/github/contributors/disclose/bug-bounty-platforms?color=5B3AB6" alt="Contributors"></a>
 <a href="https://github.com/disclose/bug-bounty-platforms/edit/main/README.md"><img src="https://img.shields.io/badge/PRs-welcome-5B3AB6" alt="PRs welcome"></a>
 </p>
@@ -37,13 +37,17 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Platform Name | URL | Region | Twitter/X | Program Types | Has Leaderboard | Leaderboard URL | Public Programs URL |
 |---------------|-----|--------|-----------|---------------|-----------------|-----------------|---------------------|
 | Australian Government VDP | [https://www.homeaffairs.gov.au](https://www.homeaffairs.gov.au) | Australia | | Public | No | | |
+| BSI CERT-Bund CVD | [https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | Germany | | Public | No | |  |
 | bugbounty.sa | [https://bugbounty.sa](https://bugbounty.sa) | Saudi Arabia | [@BugBountySA](https://x.com/BugBountySA) | Private | Yes | [https://bugbounty.sa/leaderboard](https://bugbounty.sa/leaderboard) | |
 | CCB Belgium CVD | [https://ccb.belgium.be/cert/vulnerability-reporting-ccb](https://ccb.belgium.be/cert/vulnerability-reporting-ccb) | Belgium | | Public | No | | |
+| CERT Polska Bug Bounty | [https://hack.cert.pl](https://hack.cert.pl) | Poland | [@CERT_Polska](https://x.com/CERT_Polska) | Public | No | |  |
 | CERT Polska CVD | [https://cert.pl/en/cvd/](https://cert.pl/en/cvd/) | Poland | [@CERT_Polska_en](https://x.com/CERT_Polska_en) | Public | No | | [https://cert.pl/en/cve/](https://cert.pl/en/cve/) |
 | CERT-In RVDCP | [https://www.cert-in.org.in/RVDCP.jsp](https://www.cert-in.org.in/RVDCP.jsp) | India | [@IndianCERT](https://x.com/IndianCERT) | Public | Yes | [https://www.cert-in.org.in/Hallof_Fame.jsp](https://www.cert-in.org.in/Hallof_Fame.jsp) | |
+| CERT/CC VINCE | [https://www.kb.cert.org/vince/](https://www.kb.cert.org/vince/) | USA | | Public | No | |  |
 | CISA VDP Platform | [https://www.cisa.gov/resources-tools/services/vulnerability-disclosure-policy-vdp-platform](https://www.cisa.gov/resources-tools/services/vulnerability-disclosure-policy-vdp-platform) | USA | [@CISAgov](https://x.com/CISAgov) | Public | No | | |
 | DIVD | [https://www.divd.nl](https://www.divd.nl) | Netherlands | [@DIVDnl](https://x.com/DIVDnl) | Public | No | | |
 | HITCON ZeroDay | [https://zeroday.hitcon.org](https://zeroday.hitcon.org) | Taiwan | [@HacksInTaiwan](https://x.com/HacksInTaiwan) | Private + Public | No | | [https://zeroday.hitcon.org/bug-bounty/list](https://zeroday.hitcon.org/bug-bounty/list) |
+| INCIBE-CERT CVD | [https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy](https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy) | Spain | [@incibe_cert](https://x.com/incibe_cert) | Public | |  | |
 | Japan Vulnerability Notes (JVN) | [https://jvn.jp/en/](https://jvn.jp/en/) | Japan | [@jpcert_en](https://x.com/jpcert_en) | Public | No | | [https://jvn.jp/en/nav/](https://jvn.jp/en/nav/) |
 | KISA KNVD | [https://knvd.krcert.or.kr](https://knvd.krcert.or.kr) | South Korea | | Public | No | | |
 | NCIIPC RVDP | [https://nciipc.gov.in/RVDP.html](https://nciipc.gov.in/RVDP.html) | India | [@NCIIPC](https://x.com/NCIIPC) | Public | No | | |
@@ -66,9 +70,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | AuditOne | [https://auditone.io](https://auditone.io) | Europe | [@AuditOne_io](https://x.com/AuditOne_io) | Private + Public | Yes | [https://www.auditone.io/bounty-activity](https://www.auditone.io/bounty-activity) | [https://www.auditone.io/bug-bounty](https://www.auditone.io/bug-bounty) |
 | BugRap | [https://bugrap.io](https://bugrap.io) | | [@BugRap_Team](https://x.com/BugRap_Team) | Public | Yes | [https://bugrap.io/whiteHats](https://bugrap.io/whiteHats) | [https://bugrap.io/bounties](https://bugrap.io/bounties) |
 | Cantina | [https://cantina.xyz](https://cantina.xyz) | USA | [@Cantinaxyz](https://x.com/Cantinaxyz) | Private + Public | Yes | [https://cantina.xyz/leaderboard](https://cantina.xyz/leaderboard) | [https://cantina.xyz/competitions](https://cantina.xyz/competitions) |
-| CertiK Bug Bounty | [https://certik.com](https://certik.com) | USA | [@CertiK](https://x.com/CertiK) | Private + Public | Yes | [https://www.certik.com/products/bug-bounty](https://www.certik.com/products/bug-bounty) | |
-| Certora Contests | [https://www.certora.com/contests](https://www.certora.com/contests) | Global | [@certora](https://x.com/certora) | Public | Yes | [https://www.certora.com/leaderboard](https://www.certora.com/leaderboard) | [https://www.certora.com/contests](https://www.certora.com/contests) |
-| Code4rena | [https://code4rena.com](https://code4rena.com) | | [@code4rena](https://x.com/code4rena) | Public | Yes | [https://code4rena.com/leaderboard](https://code4rena.com/leaderboard) | [https://code4rena.com/contests](https://code4rena.com/contests) |
+| CertiK Hunt | [https://hunt.certik.com](https://hunt.certik.com) | USA | [@CertiK](https://x.com/CertiK) | Private + Public | Yes | | [https://hunt.certik.com/explore](https://hunt.certik.com/explore) |
 | CodeHawks | [https://codehawks.cyfrin.io](https://codehawks.cyfrin.io) | USA | [@CodeHawks](https://x.com/CodeHawks) | Private + Public | Yes | [https://codehawks.cyfrin.io/leaderboard](https://codehawks.cyfrin.io/leaderboard) | [https://codehawks.cyfrin.io/contests](https://codehawks.cyfrin.io/contests) |
 | HackenProof | [https://hackenproof.com](https://hackenproof.com) | Estonia | [@HackenProof](https://x.com/HackenProof) | Private + Public | Yes | [https://hackenproof.com/leaderboard](https://hackenproof.com/leaderboard) | [https://hackenproof.com/programs](https://hackenproof.com/programs) |
 | Hashlock | [https://hashlock.com](https://hashlock.com) | Australia | [@HashLockAudit](https://x.com/HashLockAudit) | Private + Public | No | | [https://hashlock.com/bug-bounty](https://hashlock.com/bug-bounty) |
@@ -84,9 +86,10 @@ Every platform lives in exactly **one** category section below. If a platform fi
 
 | Platform Name | URL | Region | Twitter/X | Program Types | Has Leaderboard | Leaderboard URL | Public Programs URL |
 |---------------|-----|--------|-----------|---------------|-----------------|-----------------|---------------------|
+| Genbounty | [https://genbounty.com/](https://genbounty.com/) | UK | [@Genbounty](https://x.com/genbounty) | Private | Yes | [https://genbounty.com/teams](https://genbounty.com/teams) | |
 | Gray Swan Arena | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) | USA | [@GraySwanAI](https://x.com/GraySwanAI) | Public | Yes | [https://app.grayswan.ai/arena/leaderboard/global](https://app.grayswan.ai/arena/leaderboard/global) | [https://app.grayswan.ai/arena](https://app.grayswan.ai/arena) |
 | HackAPrompt | [https://www.hackaprompt.com](https://www.hackaprompt.com) | USA | | Public | Yes | [https://www.hackaprompt.com/leaderboard](https://www.hackaprompt.com/leaderboard) | |
-| Huntr | [https://huntr.com](https://huntr.com) | UK | [@huntrdev](https://x.com/huntrdev) | Private + Public | Yes | [https://huntr.com/leaderboard](https://huntr.com/leaderboard) | [https://huntr.com/bounties/hacktivity](https://huntr.com/bounties/hacktivity) |
+| Huntr | [https://huntr.com](https://huntr.com) | UK | [@huntrdev](https://x.com/huntrdev) | Private + Public | Yes | | [https://huntr.com/bounties/hacktivity](https://huntr.com/bounties/hacktivity) |
 | ødin | [https://0din.ai](https://0din.ai) | USA | [@0dinai](https://x.com/0dinai) | Public | Yes | [https://0din.ai/leaderboard](https://0din.ai/leaderboard) | [https://0din.ai/scope](https://0din.ai/scope) |
 
 ## Vulnerability acquisition and brokered disclosure
@@ -103,6 +106,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | IssueHunt | [https://issuehunt.io](https://issuehunt.io) | Japan | [@IssueHunt](https://x.com/IssueHunt) | Private + Public | Yes | | [https://issuehunt.io/programs](https://issuehunt.io/programs) |
 | Patchstack | [https://patchstack.com](https://patchstack.com) | Estonia | [@paborza](https://x.com/paborza) | Public | Yes | [https://patchstack.com/database/leaderboard](https://patchstack.com/database/leaderboard) | [https://patchstack.com/database/vdp](https://patchstack.com/database/vdp) |
 | Wordfence Bug Bounty | [https://www.wordfence.com/threat-intel/bug-bounty-program/](https://www.wordfence.com/threat-intel/bug-bounty-program/) | USA | [@wordfence](https://x.com/wordfence) | Public | No | | |
+| WPScan Vulnerability Disclosure | [https://wpscan.com/submit/](https://wpscan.com/submit/) | USA | [@_wpscan_](https://x.com/_wpscan_) | Public | Yes | [https://wpscan.com/leaderboard/](https://wpscan.com/leaderboard/) | |
 
 ## General crowdsourced platforms
 
@@ -112,6 +116,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | BBHunt Japan | [https://bbhunt.jp](https://bbhunt.jp) | Japan | [@bbhuntjapan](https://x.com/bbhuntjapan) | Private + Public | | | |
 | BI.ZONE Bug Bounty | [https://bugbounty.bi.zone](https://bugbounty.bi.zone) | Russia | [@bizone](https://x.com/bizone) | Private + Public | Yes | [https://bugbounty.bi.zone/top-hackers](https://bugbounty.bi.zone/top-hackers) | [https://bugbounty.bi.zone/companies](https://bugbounty.bi.zone/companies) |
 | BountyTeam | [https://www.bountyteam.com](https://www.bountyteam.com) | China | | Private + Public | Yes | [https://www.bountyteam.com/leader-board](https://www.bountyteam.com/leader-board) | [https://www.bountyteam.com/bug-bounty-list](https://www.bountyteam.com/bug-bounty-list) |
+| Bug Bounty Oman | [https://bugbounty.om](https://bugbounty.om) | Oman | |  | |  | |
 | Bug Bounty Switzerland | [https://bugbounty.ch](https://bugbounty.ch) | Switzerland | [@bugbounty_ch](https://x.com/bugbounty_ch) | Private + Public | Yes | | [https://www.bugbounty.ch/en/programs/](https://www.bugbounty.ch/en/programs/) |
 | Bug Hunt | [https://bughunt.com.br](https://bughunt.com.br) | Brazil | [@bughuntoficial](https://x.com/bughuntoficial) | Private + Public | Yes | | |
 | Bug Zero | [https://bugzero.io](https://bugzero.io) | Sri Lanka | [@BugZero_io](https://x.com/BugZero_io) | Private + Public | Yes | [https://bugzero.io/leaderboard](https://bugzero.io/leaderboard) | [https://bugzero.io/programs](https://bugzero.io/programs) |
@@ -123,6 +128,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | bugbounty.jp | [https://bugbounty.jp](https://bugbounty.jp) | Japan | | Private + Public | | | [https://bugbounty.jp/en/](https://bugbounty.jp/en/) |
 | BugBounty.ru | [https://bugbounty.ru](https://bugbounty.ru) | Russia | | Private + Public | | | [https://bugbounty.ru/app/programs](https://bugbounty.ru/app/programs) |
 | Bugcrowd | [https://bugcrowd.com](https://bugcrowd.com) | USA | [@bugcrowd](https://x.com/bugcrowd) | Private + Public | Yes | [https://bugcrowd.com/leaderboard](https://bugcrowd.com/leaderboard) | [https://bugcrowd.com/programs](https://bugcrowd.com/programs) |
+| Bugdasht | [https://bugdasht.ir](https://bugdasht.ir) | Iran | [@bugdasht](https://x.com/bugdasht) | Public | |  | |
 | Buglab | [https://buglab.io](https://buglab.io) | Singapore | [@joinbuglab](https://x.com/joinbuglab) | Private + Public | Yes | | |
 | Bugloud | [https://bugloud.com](https://bugloud.com) | United Arab Emirates | | Private + Public | Yes | [https://bugloud.com/leaderboard](https://bugloud.com/leaderboard) | [https://bugloud.com/programs](https://bugloud.com/programs) |
 | BugRakshak | [https://www.bugrakshak.com](https://www.bugrakshak.com) | India | | Private + Public | Yes | [https://www.bugrakshak.com/platform/leaderboard](https://www.bugrakshak.com/platform/leaderboard) | |
@@ -142,14 +148,12 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Cyscope | [https://cyscope.io](https://cyscope.io) | Switzerland & Latam | [@cy_scope](https://x.com/cy_scope) | Private + Public | Yes | | |
 | Detectify | [https://detectify.com](https://detectify.com) | Sweden | [@detectify](https://x.com/detectify) | Crowdsource (ASM) | Yes | | |
 | Dvuln | [https://dvuln.com](https://dvuln.com) | Australia | [@d_vuln](https://x.com/d_vuln) | Private | Yes | | |
-| Federacy | [https://federacy.com](https://federacy.com) | USA | [@_federacy](https://x.com/_federacy) | Private + Public | Yes | | |
+| Federacy | [https://www.federacy.com](https://www.federacy.com) | USA | [@_federacy](https://x.com/_federacy) | Private + Public | Yes | | |
 | Find The Gap | [https://findthegap.co.kr/en](https://findthegap.co.kr/en) | South Korea | | Private + Public | No | | |
 | Findbug | [https://findbug.io](https://findbug.io) | Kosovo | [@Findbugks](https://x.com/Findbugks) | Private | Yes | | |
-| Genbounty | [https://genbounty.com/](https://genbounty.com/) | UK | [@Genbounty](https://x.com/genbounty) | Private | Yes | [https://genbounty.com/teams](https://genbounty.com/teams) | |
 | Gerobug | [https://gerobug.gerosecurity.com](https://gerobug.gerosecurity.com) | Indonesia | | Self-hosted | No | | [https://gerobug.gerosecurity.com/programs/](https://gerobug.gerosecurity.com/programs/) |
 | GObugfree | [https://gobugfree.com](https://gobugfree.com) | Switzerland | [@gobugfree](https://x.com/gobugfree) | Private + Public | Yes | | [https://gobugfree.com/programs](https://gobugfree.com/programs) |
 | HackerOne | [https://hackerone.com](https://hackerone.com) | USA | [@hacker0x01](https://x.com/hacker0x01) | Private + Public | Yes | [https://hackerone.com/leaderboard](https://hackerone.com/leaderboard) | [https://hackerone.com/directory/programs](https://hackerone.com/directory/programs) |
-| Hackr.fi | [https://www.hackr.fi](https://www.hackr.fi) | Finland | [@hackrfi](https://x.com/hackrfi) | Private + Public | No | | [https://www.hackr.fi/en/programs.html](https://www.hackr.fi/en/programs.html) |
 | Hackrate | [https://hckrt.com](https://hckrt.com) | Hungary | [@hackrate](https://x.com/hackrate) | Private + Public | Yes | | [https://hckrt.com/Catalog](https://hckrt.com/Catalog) |
 | HACKTIFY | [https://hacktify.eu](https://hacktify.eu) | Central and Eastern Europe | [@HACKTIFY_](https://x.com/HACKTIFY_) | Private + Public | Yes | [https://hacktify.eu/en/leaderboard/](https://hacktify.eu/en/leaderboard/) | [https://hacktify.eu/en/public-programs/](https://hacktify.eu/en/public-programs/) |
 | HuntBug | [https://huntbug.com](https://huntbug.com) | USA | [@officialhuntbug](https://x.com/officialhuntbug) | Private + Public | Yes | [https://huntbug.com/leaderboard](https://huntbug.com/leaderboard) | |
@@ -159,11 +163,12 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Intigriti | [https://intigriti.com](https://intigriti.com) | Belgium | [@intigriti](https://x.com/intigriti) | Private + Public | Yes | [https://intigriti.com/leaderboard](https://intigriti.com/leaderboard) | [https://intigriti.com/programs](https://intigriti.com/programs) |
 | Kolahsefid | [https://www.kolahsefid.org](https://www.kolahsefid.org) | Iran | [@Kolaahsefid](https://x.com/Kolaahsefid) | Private + Public | No | | |
 | Nordic Defender | [https://nordicdefender.com](https://nordicdefender.com) | Sweden | [@nordicdefender](https://x.com/nordicdefender) | Private | | | |
+| OQDOPPI | [https://www.oqdoppi.uz](https://www.oqdoppi.uz) | Uzbekistan | | Private + Public | Yes | [https://www.oqdoppi.uz/leaderboard](https://www.oqdoppi.uz/leaderboard) | [https://www.oqdoppi.uz/programs](https://www.oqdoppi.uz/programs) |
 | PatchDay | [https://patchday.io](https://patchday.io) | South Korea | [@patchday_io](https://x.com/patchday_io) | Private + Public | Yes | | |
+| Qarabug | [https://qarabug.az](https://qarabug.az) | Azerbaijan | | Public | |  | [https://qarabug.az/en/programs](https://qarabug.az/en/programs) |
 | Ravro | [https://ravro.ir](https://ravro.ir) | Iran | [@Ravro_ir](https://x.com/Ravro_ir) | Private + Public | Yes | [https://ravro.ir/reports](https://ravro.ir/reports) | [https://ravro.ir/companies](https://ravro.ir/companies) |
 | RedStorm | [https://redstorm.io](https://redstorm.io) | Indonesia | [@redstorm_io](https://x.com/redstorm_io) | Private + Public | Yes | | [https://redstorm.io/program](https://redstorm.io/program) |
 | safehats | [https://safehats.com](https://safehats.com) | India | | Private + Public | | | |
-| Safevuln | [https://safevuln.com](https://safevuln.com) | Vietnam | | Public | Yes | [https://safevuln.com/leaderboard](https://safevuln.com/leaderboard) | [https://safevuln.com/programs](https://safevuln.com/programs) |
 | Secuna | [https://secuna.io](https://secuna.io) | Philippines | [@SecunaSecurity](https://x.com/SecunaSecurity) | Private + Public | Yes | | [https://platform.secuna.io/programs](https://platform.secuna.io/programs) |
 | Secur0 | [https://secur0.com](https://secur0.com) | Europe & Latam | [@Secur00](https://x.com/Secur00) | Private + Public | Yes | [https://app.secur0.com/leaderboards](https://app.secur0.com/leaderboards) | [https://app.secur0.com/programs](https://app.secur0.com/programs) |
 | Standoff 365 Bug Bounty | [https://bugbounty.standoff365.com](https://bugbounty.standoff365.com) | Russia | [@standoff365](https://x.com/standoff365) | Private + Public | Yes | [https://standoff365.com/en-US/ratings/](https://standoff365.com/en-US/ratings/) | [https://bugbounty.standoff365.com/en-US/](https://bugbounty.standoff365.com/en-US/) |
@@ -171,7 +176,7 @@ Every platform lives in exactly **one** category section below. If a platform fi
 | Synack | [https://synack.com](https://synack.com) | USA | [@synack](https://x.com/synack) | Private | Yes | | |
 | Teklabspace | [https://teklabspace.com](https://teklabspace.com) | Nigeria | [@teklabspace](https://x.com/teklabspace) | Public | Yes | | |
 | Testbirds | [https://testbirds.com](https://testbirds.com) | Germany | [@Testbirds](https://x.com/Testbirds) | QA + Bug Bounty | No | | |
-| Topcoder | [https://topcoder.com](https://topcoder.com) | USA | [@topcoder](https://x.com/topcoder) | Dev + Bug Bounty | Yes | [https://www.topcoder.com/community/statistics](https://www.topcoder.com/community/statistics) | [https://www.topcoder.com/challenges](https://www.topcoder.com/challenges) |
+| Topcoder | [https://www.topcoder.com](https://www.topcoder.com) | USA | [@topcoder](https://x.com/topcoder) | Dev + Bug Bounty | Yes | [https://www.topcoder.com/statistics](https://www.topcoder.com/statistics) | [https://www.topcoder.com/opportunities/challenge](https://www.topcoder.com/opportunities/challenge) |
 | TrustLine | [https://www.trustline.sa](https://www.trustline.sa) | Saudi Arabia | [@trustlineSec](https://x.com/trustlineSec) | Private + Public | | | |
 | TumarOne | [https://tumar.one](https://tumar.one) | Kazakhstan | | Private + Public | Yes | [https://tumar.one/leaderboard](https://tumar.one/leaderboard) | [https://tumar.one/#for-bug-hunters](https://tumar.one/#for-bug-hunters) |
 | UzHunter | [https://uzhunter.com](https://uzhunter.com) | Uzbekistan | | | | | |
